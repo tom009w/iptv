@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -13292,6 +13292,15 @@
       "category": 7,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "Slime.br@SD",
+      "name": "Slime (576p) [Not 24/7]",
+      "url": "https://slime.x1co.com.br/hls/stream.m3u8",
+      "logo_url": "https://x1co.com.br/slimelogo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
