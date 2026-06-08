@@ -2677,7 +2677,7 @@
       "id": "RACERInternational.pl@FAST",
       "name": "RACER International (1080p)",
       "url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
-      "logo_url": "",
+      "logo_url": "https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png",
       "category": 8,
       "language": 0,
       "is_hd": true
@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -13299,6 +13299,42 @@
       "url": "https://slime.x1co.com.br/hls/stream.m3u8",
       "logo_url": "https://x1co.com.br/slimelogo.png",
       "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "StarSports1.in@SD",
+      "name": "Star Sports 1 (720p)",
+      "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8",
+      "logo_url": "https://i.imgur.com/E5jjKHI.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "StarSports2.in@HD",
+      "name": "Star Sports 2 HD (720p)",
+      "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Sport.uz@SD",
+      "name": "Sport",
+      "url": "https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8",
+      "logo_url": "https://i.imgur.com/2WJE9CM.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Aqlvoy.uz@SD",
+      "name": "Aqlvoy",
+      "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
+      "logo_url": "https://i.imgur.com/ekF5cAi.png",
+      "category": 7,
       "language": 0,
       "is_hd": false
     }
