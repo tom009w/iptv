@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -13334,6 +13334,15 @@
       "name": "Aqlvoy",
       "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
       "logo_url": "https://i.imgur.com/ekF5cAi.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Gulli.fr@SD",
+      "name": "Gulli",
+      "url": "https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96",
+      "logo_url": "https://i.imgur.com/kqYssbW.png",
       "category": 7,
       "language": 0,
       "is_hd": false
