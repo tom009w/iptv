@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -13346,6 +13346,717 @@
       "category": 7,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "BellatorMMA.us@SD",
+      "name": "Bellator MMA",
+      "url": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
+      "logo_url": "https://i.imgur.com/VBKoLHk.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DAZNCombat.uk",
+      "name": "DAZN Combat",
+      "url": "https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8",
+      "logo_url": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "F1Channel.ie@SD",
+      "name": "F1 Channel (720p)",
+      "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8",
+      "logo_url": "https://i.imgur.com/cjXzWsI.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FIFAPlus.uk",
+      "name": "FIFA+ (720p)",
+      "url": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FoxSports.ar",
+      "name": "FOX Sports (720p)",
+      "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "LuchaLibreAAA.us",
+      "name": "Lucha Libre AAA",
+      "url": "https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8",
+      "logo_url": "https://i.imgur.com/Nc7K060.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PBRRidePass.us@SD",
+      "name": "PBR RidePass (720p)",
+      "url": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8",
+      "logo_url": "https://i.imgur.com/gUxH97E.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVDeportes.us",
+      "name": "Pluto TV Deportes",
+      "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+      "logo_url": "https://i.imgur.com/0pDy6f4.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVSport.us",
+      "name": "Pluto TV Sport",
+      "url": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8",
+      "logo_url": "https://i.imgur.com/y22ElOr.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "StrongmanChampionsLeague.uk@SD",
+      "name": "Strongman Champions League (720p)",
+      "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8",
+      "logo_url": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TennisChannel.us@Plus2",
+      "name": "TennisChannel 2 (720p)",
+      "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+      "logo_url": "https://i.imgur.com/tsljAnY.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Willow.us@SD",
+      "name": "Willow (720p)",
+      "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+      "logo_url": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "WorldPokerTour.us@Germany",
+      "name": "World Poker Tour",
+      "url": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8",
+      "logo_url": "https://i.imgur.com/98kLMjj.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Avatar.us",
+      "name": "Avatar",
+      "url": "https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BabyFirst.us@Brazil",
+      "name": "Babyfirst",
+      "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
+      "logo_url": "https://i.imgur.com/WxLHBwu.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BabyFirst.us",
+      "name": "Babyfirst",
+      "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
+      "logo_url": "https://i.imgur.com/WxLHBwu.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BobEsponja.us",
+      "name": "Bob Esponja (720p)",
+      "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8",
+      "logo_url": "https://i.imgur.com/nmZ2nId.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Bobleponge.us",
+      "name": "Bob l'éponge (720p)",
+      "url": "https://jmp2.uk/plu-66588931a3865300085ca800.m3u8",
+      "logo_url": "https://i.imgur.com/ITwU1yZ.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Crunchyroll.us",
+      "name": "Crunchyroll (720p)",
+      "url": "https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8",
+      "logo_url": "https://i.imgur.com/2FlIQUO.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DetectiveConan.us",
+      "name": "Detective Conan",
+      "url": "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DoraTV.us",
+      "name": "Dora TV",
+      "url": "https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8",
+      "logo_url": "https://i.imgur.com/zJuSbmU.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "GarfieldandFriends.us",
+      "name": "Garfield and Friends",
+      "url": "https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8",
+      "logo_url": "https://i.imgur.com/evzfe9C.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "InazumaEleven.us",
+      "name": "Inazuma Eleven",
+      "url": "https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8",
+      "logo_url": "https://i.imgur.com/pLv0T3D.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KidsMovieClub.us",
+      "name": "Kids Movie Club",
+      "url": "https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8",
+      "logo_url": "https://i.imgur.com/avFk0Tt.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "LasTortugasNinja.us",
+      "name": "Las Tortugas Ninja (720p)",
+      "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
+      "logo_url": "https://i.imgur.com/urJdNc9.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "LEGOKidsTV.us@SD",
+      "name": "LEGO Kids TV",
+      "url": "https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8",
+      "logo_url": "https://i.imgur.com/tMfEsVr.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "LittleStarsUniverse.us@SD",
+      "name": "Little Stars Universe",
+      "url": "https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8",
+      "logo_url": "https://i.imgur.com/RasrA0s.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Naruto.us@Brazil",
+      "name": "Naruto",
+      "url": "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8",
+      "logo_url": "https://i.imgur.com/M8X3Kvc.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Naruto.us@Germany",
+      "name": "Naruto (720p)",
+      "url": "https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8",
+      "logo_url": "https://i.imgur.com/M8X3Kvc.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Narutoenespanol.us@SD",
+      "name": "Naruto",
+      "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
+      "logo_url": "https://i.imgur.com/hG8F0RY.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NarutoShippuden.us",
+      "name": "Naruto Shippuden",
+      "url": "https://jmp2.uk/plu-64c92f965580090008084968.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NickJrClub.us",
+      "name": "Nick Jr. Club (720p)",
+      "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
+      "logo_url": "https://i.imgur.com/GCenuyl.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NickJrPlutoTV.us@CA",
+      "name": "Nick Jr. Pluto TV",
+      "url": "https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8",
+      "logo_url": "https://i.imgur.com/8DAe8wr.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NickJrPlutoTV.us@US",
+      "name": "Nick Jr. Pluto TV (720p)",
+      "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
+      "logo_url": "https://i.imgur.com/8DAe8wr.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NickClassico.us@Brazil",
+      "name": "Nickelodeon Clássico (720p)",
+      "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+      "logo_url": "https://i.imgur.com/Crip6wT.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NickenEspanol.us@SD",
+      "name": "Nickelodeon en español",
+      "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+      "logo_url": "https://i.imgur.com/G1J4IsT.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NickPlutoTV.us@US",
+      "name": "Nickelodeon Pluto TV (720p)",
+      "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+      "logo_url": "https://i.imgur.com/N7rQyzN.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NickelodeonTeen.fr",
+      "name": "Nickelodeon Teen (720p)",
+      "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+      "logo_url": "https://i.imgur.com/OWRUPA4.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Nicktoons.ca",
+      "name": "NickToons",
+      "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+      "logo_url": "https://i.ibb.co/ZpmVmC3G/IMG-0291.jpg",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "OReinoInfantil.us@Brazil",
+      "name": "O Reino Infantil",
+      "url": "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8",
+      "logo_url": "https://i.imgur.com/qoVxc13.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "OnePiece.us@BR",
+      "name": "One Piece",
+      "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8",
+      "logo_url": "https://i.imgur.com/XsvbAWR.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "OnePiece.us@CA",
+      "name": "One Piece",
+      "url": "https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8",
+      "logo_url": "https://i.imgur.com/XsvbAWR.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "OnePiece.us@FR",
+      "name": "One Piece",
+      "url": "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8",
+      "logo_url": "https://i.imgur.com/XsvbAWR.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "OnePiece.us@LatAm",
+      "name": "One Piece",
+      "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
+      "logo_url": "https://i.imgur.com/XsvbAWR.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "OnePiece.us@Spain",
+      "name": "One Piece",
+      "url": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8",
+      "logo_url": "https://i.imgur.com/XsvbAWR.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "OnePiece.us",
+      "name": "One Piece",
+      "url": "https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PixelTV.pl",
+      "name": "Pixel.tv (720p)",
+      "url": "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8",
+      "logo_url": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVAnime.us@Brazil",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@Canada",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@Germany",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@Italy",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@LATAM",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@Spain",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@US",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnimeAcao.us@Brazil",
+      "name": "Pluto TV Anime Ação",
+      "url": "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8",
+      "logo_url": "https://i.imgur.com/d8PpfB3.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnimeMovies.us@SD",
+      "name": "Pluto TV Anime Movies",
+      "url": "https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ForeverKids.us",
+      "name": "Pluto TV Forever Kids",
+      "url": "https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8",
+      "logo_url": "https://i.imgur.com/deeQqYZ.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVJunior.us@Brazil",
+      "name": "Pluto TV Junior",
+      "url": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8",
+      "logo_url": "https://i.imgur.com/7sApMZS.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVJunior.us",
+      "name": "Pluto TV Junior (720p)",
+      "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
+      "logo_url": "https://i.imgur.com/7sApMZS.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "KAID45.us",
+      "name": "Pluto TV Kids (720p)",
+      "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVKids.us@Brazil",
+      "name": "Pluto TV Kids",
+      "url": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8",
+      "logo_url": "https://i.imgur.com/yVSLWy5.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVKids.us@UK",
+      "name": "Pluto TV Kids",
+      "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
+      "logo_url": "https://i.imgur.com/yVSLWy5.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVRetroToons.us@UK",
+      "name": "Pluto TV Retro Toons",
+      "url": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
+      "logo_url": "https://i.imgur.com/YUQL0ki.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVRetroToons.us",
+      "name": "Pluto TV Retro Toons",
+      "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
+      "logo_url": "https://i.imgur.com/YUQL0ki.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVTeen.us",
+      "name": "Pluto TV Teen (720p)",
+      "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8",
+      "logo_url": "https://i.imgur.com/lNJ5p5e.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVPokemon.us@UK",
+      "name": "Pokémon",
+      "url": "https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8",
+      "logo_url": "https://i.imgur.com/GEbRABE.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVPokemon.us",
+      "name": "Pokémon",
+      "url": "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8",
+      "logo_url": "https://i.imgur.com/GEbRABE.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Rugrats.us",
+      "name": "Rugrats",
+      "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
+      "logo_url": "https://i.imgur.com/l5XmvM1.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SabrinaTeenageWitch.us@UK",
+      "name": "Sabrina The Teenage Witch",
+      "url": "https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8",
+      "logo_url": "https://i.imgur.com/xg0P1e1.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SouthPark.us",
+      "name": "South Park",
+      "url": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8",
+      "logo_url": "https://i.imgur.com/qA3KsTh.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SpongeBobSchwammkopf.us@Germany",
+      "name": "SpongeBob Schwammkopf (720p)",
+      "url": "https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8",
+      "logo_url": "https://i.imgur.com/NIsgNvI.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SuperiCarly.us",
+      "name": "Super! iCarly",
+      "url": "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8",
+      "logo_url": "https://i.imgur.com/IWcQfF2.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SuperPop.us",
+      "name": "Super! Pop",
+      "url": "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8",
+      "logo_url": "https://i.imgur.com/2FfREQE.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SuperSpongeBob.us",
+      "name": "Super! SpongeBob (720p)",
+      "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8",
+      "logo_url": "https://i.imgur.com/65wxNn4.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Tokusato.us@Brazil",
+      "name": "Tokusato",
+      "url": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8",
+      "logo_url": "https://i.imgur.com/tWpjXtl.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TortuesNinjaTV.us",
+      "name": "Tortues Ninja TV (720p)",
+      "url": "https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8",
+      "logo_url": "https://i.imgur.com/d2ACbkV.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TotallyTurtles.us@Germany",
+      "name": "Totally Turtles (720p)",
+      "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
+      "logo_url": "https://i.imgur.com/1gIpagY.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TotallyTurtles.us",
+      "name": "Totally Turtles (720p)",
+      "url": "https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8",
+      "logo_url": "https://i.imgur.com/1gIpagY.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TurmadaMonica.us@Brazil",
+      "name": "Turma da Mônica (720p)",
+      "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8",
+      "logo_url": "https://i.imgur.com/nrvPPrW.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
