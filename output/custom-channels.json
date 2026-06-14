@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -14415,6 +14415,33 @@
       "url": "https://iptv.prosto.tv/ch118/index.m3u8",
       "logo_url": "https://i.imgur.com/mRsnztA.png",
       "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Arryadia.ma@HDTNT",
+      "name": "Arryadia HD TNT (1080p)",
+      "url": "https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8",
+      "logo_url": "https://i.imgur.com/XjzK3gZ.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "France4.fr@HD",
+      "name": "France 4 HD (1080p)",
+      "url": "https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "LAMIL35TV.ar@SD",
+      "name": "LAMIL35 TV",
+      "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
+      "logo_url": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
+      "category": 0,
       "language": 0,
       "is_hd": false
     }
