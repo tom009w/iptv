@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -14471,6 +14471,60 @@
       "category": 8,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "FightBox.nl@HD",
+      "name": "FightBox",
+      "url": "https://iptv.prosto.tv/ch118/index.m3u8",
+      "logo_url": "https://i.imgur.com/mRsnztA.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DisneyChannel.es@SD",
+      "name": "Disney Channel (1080p)",
+      "url": "https://cdn.telecloud.tv/CH16265/index.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DisneyChannel.ro@SD",
+      "name": "Disney Channel (576p)",
+      "url": "https://cdn.telecloud.tv/CH4141/index.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DisneyChannel.de@HD",
+      "name": "Disney Channel HD (720p)",
+      "url": "https://cdn.telecloud.tv/CH4019/index.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "RetroMusic",
+      "name": "Retro Music",
+      "url": "https://sanplayout.xyz/live2/retromusichd/playlist.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "MaduraiArasiTV",
+      "name": "Madurai Arasi TV",
+      "url": "https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai%20Arasi%20(2).png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }

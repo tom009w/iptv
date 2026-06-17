@@ -247,8 +247,6 @@ https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
 https://cdn-4.pishow.tv/live/1531/master.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" group-title="TAMIL",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png" group-title="TAMIL",Zee Thirai HD (1080p)
-http://149.71.34.166:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" group-title="TAMIL",Zee Zest HD (1080p)
 http://103.72.101.252:8080/live/2757.m3u8
 #EXTINF:-1 tvg-id="3201" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" tvg-region="Panruti;Cuddalore" group-title="TAMIL",Sana TV
@@ -1603,5 +1601,21 @@ https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWF
 https://amigofx.com:1936/tv360/tv360/playlist.m3u8
 #EXTINF:-1 tvg-id="LimeTV" tvg-logo="https://play-lh.googleusercontent.com/NqS2kvGVCXHVg9svRxhvXAguDWOt7bx0R7b4NU20bKw-gO4v90LZ97egHkb7JIZtHzPC" tvg-region="Surandai;Tenkasi" group-title="TAMIL",Lime TV
 https://stream.iplive.xyz/limetv/limetvchannel/index.mpd
-#EXTINF:-1 tvg-id="JetTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/" tvg-region="Unknown" group-title="TAMIL",Jet TV
-https://stream.apcloud.in/jettv/jettvhd/index.m3u8
+#EXTINF:-1 tvg-id="JetTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781170961_JET%20TV%20LOGO%20MAIN%20PNG.png" tvg-region="Unknown" group-title="TAMIL",Jet TV
+https://stream.apcloud.in/jettv/jettvhd/index.m3u8
+#EXTINF:-1 tvg-id="RetroMusic" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Retro Music
+https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
+#EXTINF:-1 tvg-id="MaduraiArasiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai%20Arasi%20(2).png" tvg-region="Madurai" group-title="TAMIL",Madurai Arasi TV
+https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
+#EXTINF:-1 tvg-id="EuroTamil" tvg-logo="https://i.ibb.co/xSgwy63x/Eurotamil-logo-V3.png" tvg-region="Europe" group-title="TAMIL",Euro Tamil
+http://198.144.149.206:8080/DINESH/EURO/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="NRJTV" tvg-logo="https://i.ibb.co/rRGbbWJd/1-copy.png" tvg-region="Unknown" group-title="TAMIL",NRJ TV
+http://198.144.149.206:8080/DINESH/NRJTV/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="PJTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",PJ TV
+http://198.144.149.206:8080/DINESH/PJTV/index.m3u8?token=YAAL
+#EXTINF:-1 tvg-id="EyeTamil" tvg-logo="https://i.ibb.co/60gWgPP3/eye.png" tvg-region="Unknown" group-title="TAMIL",Eye Tamil
+http://198.144.149.196:8080/EyeMedia/EyeTV/index.m3u8
+#EXTINF:-1 tvg-id="EyeTamilMusic" tvg-logo="https://i.ibb.co/nqp6JC71/eye-music.png" tvg-region="Unknown" group-title="TAMIL",Eye Tamil Music
+http://198.144.149.196:8080/EyeMedia/music/index.m3u8
+#EXTINF:-1 tvg-id0"EyeTamilComedy" tvg-logo="https://i.ibb.co/KxLRTs3D/eye-comedy.png" tvg-region="Unknown" group-title="TAMIL",Eye Tamil Comedy 
+http://198.144.149.196:8080/EyeMedia/comedy/index.m3u8
