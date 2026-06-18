@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -14522,6 +14522,771 @@
       "name": "Madurai Arasi TV",
       "url": "https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8",
       "logo_url": "https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai%20Arasi%20(2).png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "StarJalsha.in@HD",
+      "name": "Star Jalsha HD (720p)",
+      "url": "https://tvsen4.aynaott.com/n64PH4YL/index.m3u8",
+      "logo_url": "https://i.imgur.com/IlufzR5.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Arryadia.ma@SD",
+      "name": "Arryadia (480p)",
+      "url": "https://snrtworker.kharazbelaid.workers.dev/?id=arryadia.m3u8",
+      "logo_url": "https://i.imgur.com/XjzK3gZ.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DAZNDartsxPlutoTV.de@DACH",
+      "name": "DAZN Darts x Pluto TV",
+      "url": "https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DAZNHandballxPlutoTV.de@DACH",
+      "name": "DAZN Handball x Pluto TV",
+      "url": "https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DAZNHeldinnenxPlutoTV.de@DACH",
+      "name": "DAZN Heldinnen x Pluto TV",
+      "url": "https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "MonsterJam.us@SD",
+      "name": "Monster Jam (720p)",
+      "url": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8",
+      "logo_url": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PFLMMA.us@SD",
+      "name": "PFL MMA (720p)",
+      "url": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8",
+      "logo_url": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVCompetition.us@SD",
+      "name": "Pluto TV Competition",
+      "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVDeportes.us@LatAm",
+      "name": "Pluto TV Deportes",
+      "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVESports.us@LatAm",
+      "name": "Pluto TV E-Sports",
+      "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVEsportes.us@BR",
+      "name": "Pluto TV Esportes",
+      "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+      "logo_url": "",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVFishing.se@DK",
+      "name": "Pluto TV Fishing",
+      "url": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVHandboldHighlights.se@DK",
+      "name": "Pluto TV Håndbold Highlights",
+      "url": "https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVHandboldLive.se@DK",
+      "name": "Pluto TV Håndbold Live",
+      "url": "https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVHandbollHighlights.se@SE",
+      "name": "Pluto TV Handboll Highlights",
+      "url": "https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVHandbollLive.se@SE",
+      "name": "Pluto TV Handboll Live",
+      "url": "https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVSnooker900.de@DACH",
+      "name": "Pluto TV Snooker 900 (720p)",
+      "url": "https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVSnooker900.de@ES",
+      "name": "Pluto TV Snooker 900 (720p)",
+      "url": "https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVSnooker900.de@FR",
+      "name": "Pluto TV Snooker 900 (720p)",
+      "url": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVSnooker900.de@IT",
+      "name": "Pluto TV Snooker 900 (720p)",
+      "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVSnooker900.de@UK",
+      "name": "Pluto TV Snooker 900 (720p)",
+      "url": "https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVSnooker900.se@DK",
+      "name": "Pluto TV Snooker 900 (720p)",
+      "url": "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68ac55bb3efb41cd979a65ec/colorLogoPNG_1760517441951.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVSnooker900.se@NO",
+      "name": "Pluto TV Snooker 900 (720p)",
+      "url": "https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68ac55bb3efb41cd979a65ec/colorLogoPNG_1760517441951.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVSnooker900.se@SE",
+      "name": "Pluto TV Snooker 900 (720p)",
+      "url": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/68ac55bb3efb41cd979a65ec/colorLogoPNG_1760517441951.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVSnooker900.us@CA",
+      "name": "Pluto TV Snooker 900",
+      "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVSport.de@IT",
+      "name": "Pluto TV Sport",
+      "url": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVSport.se@DK",
+      "name": "Pluto TV Sport",
+      "url": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVSport.se@NO",
+      "name": "Pluto TV Sport",
+      "url": "https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVSport.se@SE",
+      "name": "Pluto TV Sport",
+      "url": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NickelodeonPlutoTV.us@SD",
+      "name": "Nickelodeon Pluto TV (720p)",
+      "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVAdultAnimation.de@DACH",
+      "name": "Pluto TV Adult Animation",
+      "url": "https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoPNG_1746816413112.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnimation.de@UK",
+      "name": "Pluto TV Animation",
+      "url": "https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.de@DACH",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.de@ES",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.de@IT",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@BR",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@CA",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnime.us@LatAm",
+      "name": "Pluto TV Anime",
+      "url": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVAnimeAcao.us@BR",
+      "name": "Pluto TV Anime Ação",
+      "url": "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVForeverKids.de@ES",
+      "name": "Pluto TV Forever Kids",
+      "url": "https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVGamingporUbisoft.us@BR",
+      "name": "Pluto TV Gaming por Ubisoft (720p)",
+      "url": "https://jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVJunior.de@ES",
+      "name": "Pluto TV Junior (720p)",
+      "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVJunior.de@FR",
+      "name": "Pluto TV Junior (720p)",
+      "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVJunior.us@BR",
+      "name": "Pluto TV Junior",
+      "url": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVJunior.us@LatAm",
+      "name": "Pluto TV Junior",
+      "url": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVJuniorklubben.se@DK",
+      "name": "Pluto TV Juniorklubben (720p)",
+      "url": "https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVJuniorklubben.se@NO",
+      "name": "Pluto TV Juniorklubben (720p)",
+      "url": "https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVJuniorklubben.se@SE",
+      "name": "Pluto TV Juniorklubben (720p)",
+      "url": "https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVKids.de@UK",
+      "name": "Pluto TV Kids",
+      "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVKids.us@BR",
+      "name": "Pluto TV Kids",
+      "url": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVKids.us@LatAm",
+      "name": "Pluto TV Kids",
+      "url": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVKidsClassics.de@ES",
+      "name": "Pluto TV Kids Classics (720p)",
+      "url": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVKidsClassics.de@FR",
+      "name": "Pluto TV Kids Classics (720p)",
+      "url": "https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVKidsClub.de@FR",
+      "name": "Pluto TV Kids Club",
+      "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVKidsClub.us@BR",
+      "name": "Pluto TV Kids Club",
+      "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVKids.de@ES",
+      "name": "Pluto TV Kids Spain (720p)",
+      "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVKlassisketegnefilm.se@DK",
+      "name": "Pluto TV Klassiske tegnefilm (720p)",
+      "url": "https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/67f508992ebe80e2929b5c98/colorLogoPNG_1748955041610.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVKlassisketegnefilmer.se@NO",
+      "name": "Pluto TV Klassiske tegnefilmer (720p)",
+      "url": "https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/67f508f68ddd60c57dc44766/colorLogoPNG_1748955225113.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVRetroKid.us@CA",
+      "name": "Pluto TV Retro Kid",
+      "url": "https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVRetroToons.de@FR",
+      "name": "Pluto TV Retro Toons",
+      "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVRetroToons.de@UK",
+      "name": "Pluto TV Retro Toons",
+      "url": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVStarTrekAnimation.de@DACH",
+      "name": "Pluto TV Star Trek: Animation",
+      "url": "https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/69492467ae33e24d916e56cf/colorLogoPNG_1770896970638.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVSuperKids.de@FR",
+      "name": "Pluto TV Super Kids",
+      "url": "https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVTecknadeklassiker.se@SE",
+      "name": "Pluto TV Tecknade klassiker (720p)",
+      "url": "https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVTecknat.se@SE",
+      "name": "Pluto TV Tecknat (720p)",
+      "url": "https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVTeen.de@ES",
+      "name": "Pluto TV Teen (720p)",
+      "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVTeen.de@FR",
+      "name": "Pluto TV Teen (720p)",
+      "url": "https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVTeen.de@IT",
+      "name": "Pluto TV Teen (720p)",
+      "url": "https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVTegnefilm.se@DK",
+      "name": "Pluto TV Tegnefilm (720p)",
+      "url": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVTegnefilm.se@NO",
+      "name": "Pluto TV Tegnefilm (720p)",
+      "url": "https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVToons.de@ES",
+      "name": "Pluto TV Toons",
+      "url": "https://jmp2.uk/plu-6880aa28164eb4890282e803.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PlutoTVToons.de@FR",
+      "name": "Pluto TV Toons (720p)",
+      "url": "https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVUngdomsserier.se@DK",
+      "name": "Pluto TV Ungdomsserier (720p)",
+      "url": "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVUngdomsserier.se@NO",
+      "name": "Pluto TV Ungdomsserier (720p)",
+      "url": "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PlutoTVUngdomsserier.se@SE",
+      "name": "Pluto TV Ungdomsserier (720p)",
+      "url": "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8",
+      "logo_url": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "VelTV",
+      "name": "Vel TV",
+      "url": "https://saran.phoenixcreations.online/veltv/vel/playlist.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/T13Cd01S46L8YqzPzLWwtE_38xY5DZesG7khQsGQu2nxbve886mjKqFBNCDBJQ88TDKgMr1ZjZJJebYp2uSFyg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RTamilTV",
+      "name": "R Tamil TV",
+      "url": "https://layastream.in/cdn/rtamil/index.m3u8",
+      "logo_url": "https://i.ibb.co/B2y3FhrY/R-Tamil-TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RCinemax",
+      "name": "R Cinemax",
+      "url": "https://layastream.in/cdn/rcinemax/index.m3u8",
+      "logo_url": "https://i.ibb.co/ZzH8n0jG/R-Cinemax.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RCinePrime",
+      "name": "R Cine Prime",
+      "url": "https://layastream.in/live/plc1/index.m3u8",
+      "logo_url": "https://i.ibb.co/ycNgPGqB/CINE-PRIME-1.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RHollywood",
+      "name": "R Hollywood",
+      "url": "https://layastream.in/cdn/rhollywood/index.m3u8",
+      "logo_url": "https://i.ibb.co/Gfbhd8R5/R-Hollywood.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RithikTV",
+      "name": "Rithik TV",
+      "url": "https://layastream.in/cdn/rlifestyle/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KClassic",
+      "name": "K Classic",
+      "url": "https://layastream.in/cdn/rclassic/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "GreenTV",
+      "name": "Green TV",
+      "url": "https://layastream.in/cdn/rmovies/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RajTamilSongs",
+      "name": "Raj Tamil Songs",
+      "url": "https://layastream.in/cdn/rmusic/index.m3u8?token=OGIdMcr6",
+      "logo_url": "https://i.ibb.co/zVTqnvCj/R-Music.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ShriSakthiTV",
+      "name": "Shri Sakthi TV",
+      "url": "https://view.apserver.in/tmp_hls6/srisakthitv/index.m3u8",
+      "logo_url": "",
       "category": 0,
       "language": 0,
       "is_hd": false

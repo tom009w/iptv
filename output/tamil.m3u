@@ -1253,11 +1253,9 @@ https://web.applelive.in/anisatv/anisatv/index.m3u8
 https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
 #EXTINF:-1 tvg-id="EzhilTV2" tvg-logo="https://bmcloud.in/apptest/uploads/688a642529460.png" tvg-region="Unknown" group-title="TAMIL",Ezhil TV
 https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
-#EXTINF:-1 tvg-id="KoodalTV" tvg-logo="https://bmcloud.in/apptest/uploads/695cf57cc3657.png" tvg-region="Kanyakumari" group-title="TAMIL",Koodal TV
+#EXTINF:-1 tvg-id="KoodalTV" tvg-logo="https://play-lh.googleusercontent.com/4sUMv9Mkwhuiy_x-ChuxbggxAd7bo2Z_HbESg30-2By3ll0RN65zft0qOAGHxen6stPRjMpO_O11u9Y_q0uoC9w" tvg-region="Kanyakumari" group-title="TAMIL",Koodal TV
 https://web.applelive.in/koodaltv/koodaltv/index.m3u8
 #EXTINF:-1 tvg-id="CrayonzTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" tvg-region="Chennai" group-title="TAMIL",Crayonz TV
-http://v.7starcloud.com:1935/live/crayonztv/playlist.m3u8
-#EXTINF:-1 tvg-id="CrayonzTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" tvg-region="Chennai" group-title="TAMIL",Crayonz TV [SanPlayout]
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-id="SKMedia" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SKMedia.png" tvg-region="Unknown" group-title="TAMIL",SK Media
 https://rtmp.bmlive.net/stream/skmedia/index.m3u8
@@ -1618,4 +1616,36 @@ http://198.144.149.196:8080/EyeMedia/EyeTV/index.m3u8
 #EXTINF:-1 tvg-id="EyeTamilMusic" tvg-logo="https://i.ibb.co/nqp6JC71/eye-music.png" tvg-region="Unknown" group-title="TAMIL",Eye Tamil Music
 http://198.144.149.196:8080/EyeMedia/music/index.m3u8
 #EXTINF:-1 tvg-id0"EyeTamilComedy" tvg-logo="https://i.ibb.co/KxLRTs3D/eye-comedy.png" tvg-region="Unknown" group-title="TAMIL",Eye Tamil Comedy 
-http://198.144.149.196:8080/EyeMedia/comedy/index.m3u8
+http://198.144.149.196:8080/EyeMedia/comedy/index.m3u8
+#EXTINF:-1 tvg-id="PrinceTV" tvg-logo="https://play-lh.googleusercontent.com/SrJsp7zhnpCoWvsFru2y8kLRXerhlSf50JRlQQI0EOnn3JeqY1tql-fs26XiRwp4oE1q1ltcoWlcUztIj6AB" tvg-region="Unknown" group-title="TAMIL",Prince TV
+http://princetv.phoenixcreations.online/princetv/prince/playlist.m3u8
+#EXTINF:-1 tvg-id="BelanTV" tvg-logo="https://play-lh.googleusercontent.com/cwfA2qtWt_pxqVHfCB6gAWXfllLCzd5vd5E21R0qJQRSdlPG8vYQLxmlV0a-JQw_ra0_Ho7hQPl1uQQpcqkT" tvg-region="Unknown" group-title="TAMIL",Belan TV
+http://belantv.phoenixcreations.online/belantv/belan/playlist.m3u8
+#EXTINF:-1 tvg-id="SriTV" tvg-logo="https://play-lh.googleusercontent.com/WVVmROs0-HduRDHoPjdyF-o4BWIHE5cVK8KC2uHzBeCskktLCZ9npcRLv9__UebaAhXrdY21xURmyrzyGJ4Ayg" tvg-region="Unknown" group-title="TAMIL",Sri TV
+http://sritv.phoenixcreations.online/sritv/sri/playlist.m3u8
+#EXTINF:-1 tvg-id="VelTV" tvg-logo="https://play-lh.googleusercontent.com/T13Cd01S46L8YqzPzLWwtE_38xY5DZesG7khQsGQu2nxbve886mjKqFBNCDBJQ88TDKgMr1ZjZJJebYp2uSFyg" tvg-region="Unknown" group-title="TAMIL",Vel TV
+https://saran.phoenixcreations.online/veltv/vel/playlist.m3u8
+#EXTINF:-1 tvg-id="KingsTV" tvg-logo="https://play-lh.googleusercontent.com/cXclrtlhO6v3NvMl4rlHUY8daedag1Ugbdv8S5Fl5NiBSGDUzIk55Snrv0k94MNapkG9ffgLHFiNXx2qN56OYQ" tvg-region="Unknown" group-title="TAMIL",Kings TV
+http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
+#EXTINF:-1 tvg-id="BigilTV" tvg-logo="https://play-lh.googleusercontent.com/yKAvmjZyBijb-QXYdfLQKEkLSnsLIkahT-9Dqozc59x0oVebBIMO6JQStbEP_QeL7IgkNNCF_h5kJhsLQLwE_A" tvg-region="Karur" group-title="TAMIL",Bigil TV
+http://bigiltv.phoenixcreations.online/bigiltv/bigiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="VetriTV" tvg-logo="https://play-lh.googleusercontent.com/XMxl1RI97TsGNGLiNySIv_5EQ8XI8ywoghPlzsZItfM-PaiuTKkRb5sNN_hlG8ZrMNua7FFUnv0jKlFA5gh2rQ" tvg-region="Unknown" group-title="TAMIL",Vetri TV
+http://vetritv.phoenixcreations.online/vetritv/vetritv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTamilTV" tvg-logo="https://i.ibb.co/B2y3FhrY/R-Tamil-TV.png" tvg-region="Unknown" group-title="TAMIL",R Tamil TV
+https://layastream.in/cdn/rtamil/index.m3u8
+#EXTINF:-1 tvg-id="RCinemax" tvg-logo="https://i.ibb.co/ZzH8n0jG/R-Cinemax.png" tvg-region="Unknown" group-title="TAMIL",R Cinemax
+https://layastream.in/cdn/rcinemax/index.m3u8
+#EXTINF:-1 tvg-id="RCinePrime" tvg-logo="https://i.ibb.co/ycNgPGqB/CINE-PRIME-1.png" tvg-region="Unknown" group-title="TAMIL",R Cine Prime
+https://layastream.in/live/plc1/index.m3u8
+#EXTINF:-1 tvg-id="RHollywood" tvg-logo="https://i.ibb.co/Gfbhd8R5/R-Hollywood.png" tvg-region="Unknown" group-title="TAMIL",R Hollywood
+https://layastream.in/cdn/rhollywood/index.m3u8
+#EXTINF:-1 tvg-id="RithikTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Rithik TV
+https://layastream.in/cdn/rlifestyle/index.m3u8
+#EXTINF:-1 tvg-id="KClassic" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",K Classic
+https://layastream.in/cdn/rclassic/index.m3u8
+#EXTINF:-1 tvg-id="GreenTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Green TV
+https://layastream.in/cdn/rmovies/index.m3u8
+#EXTINF:-1 tvg-id="RajTamilSongs" tvg-logo="https://i.ibb.co/zVTqnvCj/R-Music.png" tvg-region="Unknown" group-title="TAMIL",Raj Tamil Songs
+https://layastream.in/cdn/rmusic/index.m3u8?token=OGIdMcr6
+#EXTINF:-1 tvg-id="ShriSakthiTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Shri Sakthi TV
+https://view.apserver.in/tmp_hls6/srisakthitv/index.m3u8
