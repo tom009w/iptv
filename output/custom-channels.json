@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -15290,6 +15290,24 @@
       "category": 0,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "PearTV.in@SD",
+      "name": "Pear TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Teledeporte.es@SD",
+      "name": "Teledeporte (720p) [Geo-blocked]",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+      "logo_url": "https://i.ibb.co/0jxLdjnY/TDP.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
