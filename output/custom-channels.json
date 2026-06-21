@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -15324,6 +15324,42 @@
       "url": "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8",
       "logo_url": "https://i.imgur.com/Oj3hEBh.jpg",
       "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BandSports.br@SD",
+      "name": "Band Sports (1080p)",
+      "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8",
+      "logo_url": "https://i.imgur.com/EuPvzJe.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SqalaTV.pe@SD",
+      "name": "Sqala TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/DJ05m8s.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "D2hKids.in@SD",
+      "name": "D2h Kids (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/lPa11rU.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "JimJamEurope.uk@SD",
+      "name": "JimJam Europe (720p)",
+      "url": "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8",
+      "logo_url": "https://i.imgur.com/ODhkYyx.png",
+      "category": 7,
       "language": 0,
       "is_hd": true
     }

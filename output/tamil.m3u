@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="TAMIL",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="TAMIL",&flix HD (1080p)
+#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67W.png?lock=720x540" group-title="TAMIL",&flix HD (1080p)
 http://103.72.101.252:8080/live/1322.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="TAMIL",Aaryaa TV (1080p)
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
@@ -1600,7 +1600,7 @@ https://amigofx.com:1936/tv360/tv360/playlist.m3u8
 #EXTINF:-1 tvg-id="LimeTV" tvg-logo="https://play-lh.googleusercontent.com/NqS2kvGVCXHVg9svRxhvXAguDWOt7bx0R7b4NU20bKw-gO4v90LZ97egHkb7JIZtHzPC" tvg-region="Surandai;Tenkasi" group-title="TAMIL",Lime TV
 https://stream.iplive.xyz/limetv/limetvchannel/index.mpd
 #EXTINF:-1 tvg-id="JetTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781170961_JET%20TV%20LOGO%20MAIN%20PNG.png" tvg-region="Unknown" group-title="TAMIL",Jet TV
-https://stream.apcloud.in/jettv/jettvhd/index.m3u8
+https://stream.apcloud.in/jettv/jettv/index.m3u8
 #EXTINF:-1 tvg-id="RetroMusic" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Retro Music
 https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 #EXTINF:-1 tvg-id="MaduraiArasiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai%20Arasi%20(2).png" tvg-region="Madurai" group-title="TAMIL",Madurai Arasi TV
@@ -1629,23 +1629,23 @@ https://saran.phoenixcreations.online/veltv/vel/playlist.m3u8
 http://kingstv.phoenixcreations.online/kingstv/kings/playlist.m3u8
 #EXTINF:-1 tvg-id="BigilTV" tvg-logo="https://play-lh.googleusercontent.com/yKAvmjZyBijb-QXYdfLQKEkLSnsLIkahT-9Dqozc59x0oVebBIMO6JQStbEP_QeL7IgkNNCF_h5kJhsLQLwE_A" tvg-region="Karur" group-title="TAMIL",Bigil TV
 http://bigiltv.phoenixcreations.online/bigiltv/bigiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="VetriTV" tvg-logo="https://play-lh.googleusercontent.com/XMxl1RI97TsGNGLiNySIv_5EQ8XI8ywoghPlzsZItfM-PaiuTKkRb5sNN_hlG8ZrMNua7FFUnv0jKlFA5gh2rQ" tvg-region="Unknown" group-title="TAMIL",Vetri TV
+#EXTINF:-1 tvg-id="VetriTV" tvg-logo="https://play-lh.googleusercontent.com/XMxl1RI97TsGNGLiNySIv_5EQ8XI8ywoghPlzsZItfM-PaiuTKkRb5sNN_hlG8ZrMNua7FFUnv0jKlFA5gh2rQ" tvg-region="Karur" group-title="TAMIL",Vetri TV
 http://vetritv.phoenixcreations.online/vetritv/vetritv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTamilTV" tvg-logo="https://i.ibb.co/B2y3FhrY/R-Tamil-TV.png" tvg-region="Unknown" group-title="TAMIL",R Tamil TV
-https://layastream.in/cdn/rtamil/index.m3u8
+https://layastream.in/cdn/rtamil/index.mpd
 #EXTINF:-1 tvg-id="RCinemax" tvg-logo="https://i.ibb.co/ZzH8n0jG/R-Cinemax.png" tvg-region="Unknown" group-title="TAMIL",R Cinemax
-https://layastream.in/cdn/rcinemax/index.m3u8
+https://layastream.in/cdn/rcinemax/index.mpd
 #EXTINF:-1 tvg-id="RCinePrime" tvg-logo="https://i.ibb.co/ycNgPGqB/CINE-PRIME-1.png" tvg-region="Unknown" group-title="TAMIL",R Cine Prime
-https://layastream.in/live/plc1/index.m3u8
+https://layastream.in/live/plc1/index.mpd
 #EXTINF:-1 tvg-id="RHollywood" tvg-logo="https://i.ibb.co/Gfbhd8R5/R-Hollywood.png" tvg-region="Unknown" group-title="TAMIL",R Hollywood
-https://layastream.in/cdn/rhollywood/index.m3u8
+https://layastream.in/cdn/rhollywood/index.mpd
 #EXTINF:-1 tvg-id="RithikTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Rithik TV
-https://layastream.in/cdn/rlifestyle/index.m3u8
+https://layastream.in/cdn/rlifestyle/index.mpd
 #EXTINF:-1 tvg-id="KClassic" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",K Classic
-https://layastream.in/cdn/rclassic/index.m3u8
+https://layastream.in/cdn/rclassic/index.mpd
 #EXTINF:-1 tvg-id="GreenTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Green TV
-https://layastream.in/cdn/rmovies/index.m3u8
+https://layastream.in/cdn/rmovies/index.mpd
 #EXTINF:-1 tvg-id="RajTamilSongs" tvg-logo="https://i.ibb.co/zVTqnvCj/R-Music.png" tvg-region="Unknown" group-title="TAMIL",Raj Tamil Songs
-https://layastream.in/cdn/rmusic/index.m3u8?token=OGIdMcr6
+https://layastream.in/cdn/rmusic/index.mpd?token=OGIdMcr6
 #EXTINF:-1 tvg-id="ShriSakthiTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Shri Sakthi TV
 https://view.apserver.in/tmp_hls6/srisakthitv/index.m3u8
