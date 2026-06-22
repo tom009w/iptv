@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -15362,6 +15362,69 @@
       "category": 7,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "Unite8Sports2.in@HD",
+      "name": "Unite8 Sports 2 HD",
+      "url": "https://mini.allinonereborn.fun/tata.php?id=11624",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GodStandsKidsClubTV.pk@Arabic",
+      "name": "God Stands Kids Club TV Arabic",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
+      "logo_url": "https://i.imgur.com/FxDBbpz.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "GodStandsKidsClubTV.pk@Chinese",
+      "name": "God Stands Kids Club TV Chinese",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
+      "logo_url": "https://i.imgur.com/FxDBbpz.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "GodStandsKidsClubTV.pk@English",
+      "name": "God Stands Kids Club TV English",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
+      "logo_url": "https://i.imgur.com/FxDBbpz.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "GodStandsKidsClubTV.pk@Urdu",
+      "name": "God Stands Kids Club TV Urdu",
+      "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
+      "logo_url": "https://i.imgur.com/FxDBbpz.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Superhitz.in@SD",
+      "name": "Superhitz (720p)",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/aRNBvTU.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "direct:aHR0cHM6Ly9jaWduYWxwbGF5bWF4Y2RuLnF6ei5pby9hbmltYXhfenRlL3Nhbmp1YW50di9tYW5pZmVz",
+      "name": "animax asia 480i geoblocked",
+      "url": "https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd",
+      "logo_url": "https://ui-avatars.com/api/?name=AA4&background=FF6B6B&color=fff&size=100&bold=true",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
