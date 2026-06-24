@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -15422,6 +15422,114 @@
       "name": "animax asia 480i geoblocked",
       "url": "https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=AA4&background=FF6B6B&color=fff&size=100&bold=true",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ZeeCinema.in@SD",
+      "name": "Zee Cinema (720p)",
+      "url": "https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "StarPlus.in@HD",
+      "name": "StarPlus HD (720p)",
+      "url": "https://trs1.aynaott.com/starplushd/index.m3u8",
+      "logo_url": "https://i.imgur.com/xWxNy3L.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DeporTV.ar@SD",
+      "name": "DeporTV (1080p)",
+      "url": "https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8",
+      "logo_url": "https://i.imgur.com/THk9ARS.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Andpictures.in@SD",
+      "name": "&pictures (720p)",
+      "url": "https://trs1.aynaott.com/andpictureshd/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AndTV.in@HD",
+      "name": "&TV HD (720p)",
+      "url": "https://trs1.aynaott.com/andtvhd/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AssamTalks.in@SD",
+      "name": "Assam Talks (576p)",
+      "url": "https://trs1.aynaott.com/AssamTalks/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BabyTV.uk@UKHD",
+      "name": "BabyTV UK HD (720p)",
+      "url": "https://trs1.aynaott.com/babytv/index.m3u8",
+      "logo_url": "https://i.imgur.com/4BDJ5FT.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Nickelodeon.uk@SD",
+      "name": "Nickelodeon (576p)",
+      "url": "https://trs1.aynaott.com/nicklodean/index.m3u8",
+      "logo_url": "https://i.imgur.com/E84jnP8.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ReinoInfantil.mz@SD",
+      "name": "Reino Infantil",
+      "url": "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8",
+      "logo_url": "https://i.imgur.com/oAygpDw.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TeenNick.us@East",
+      "name": "TeenNick (576p)",
+      "url": "https://trs1.aynaott.com/teennick/index.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TVPABC2.pl@HD",
+      "name": "TVP ABC 2 (1080p)",
+      "url": "https://raw.githubusercontent.com/seyfettinaskar7-sudo/polish-iptv/refs/heads/main/streams/tvpabc2.m3u",
+      "logo_url": "https://i.imgur.com/Ur7CUAh.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ZharaKidsTV.ru@SD",
+      "name": "Zhara Kids TV (576p)",
+      "url": "https://trs1.aynaott.com/discoverykids/index.m3u8",
+      "logo_url": "https://i.imgur.com/OkPqFNY.png",
       "category": 0,
       "language": 0,
       "is_hd": false
