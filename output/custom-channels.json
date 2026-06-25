@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -15530,6 +15530,51 @@
       "name": "Zhara Kids TV (576p)",
       "url": "https://trs1.aynaott.com/discoverykids/index.m3u8",
       "logo_url": "https://i.imgur.com/OkPqFNY.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Belarus5.by@HD",
+      "name": "Belarus-5 HD (1080p)",
+      "url": "https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8",
+      "logo_url": "https://i.imgur.com/NJsRFud.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Gol.es@SD",
+      "name": "Gol (1080p)",
+      "url": "https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/960px-Gol.svg.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CocukSmart.tr@SD",
+      "name": "Cocuk Smart (1080p)",
+      "url": "https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8",
+      "logo_url": "https://i.imgur.com/8xxO1FE.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "KapitanFantastika.ru@SD",
+      "name": "Kapitan Fantastika (1080p)",
+      "url": "https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8",
+      "logo_url": "https://i.imgur.com/K3PSHiT.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AshokaTV",
+      "name": "Ashoka TV",
+      "url": "https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1732631170_ashoka%20tv%20logo%20png.png",
       "category": 0,
       "language": 0,
       "is_hd": false
