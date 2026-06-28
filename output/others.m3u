@@ -385,6 +385,8 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VillageTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="Religious",Village TV (576p)
 https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+#EXTINF:-1 tvg-id="VTU.in@SD" tvg-logo="https://i.imgur.com/zMwZRGJ.png" group-title="Undefined",VTU (1080p)
+https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
 #EXTINF:-1 tvg-id="WayanadVision.in@SD" tvg-logo="https://i.imgur.com/yF2C4Dt.png" group-title="General",Wayanad Vision (1080p)
 https://cloudsavre.in.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="WeOneKerala.in@SD" tvg-logo="https://i.imgur.com/iZufxya.jpg" group-title="General",We One Kerala (720p) [Geo-blocked]
