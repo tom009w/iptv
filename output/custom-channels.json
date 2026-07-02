@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -16883,6 +16883,33 @@
       "category": 7,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "CRTV.cl@SD",
+      "name": "CRTV (720p)",
+      "url": "https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8",
+      "logo_url": "https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TSports7.th@SD",
+      "name": "T Sports 7",
+      "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/KyI0s5n.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SpacetoonArabic.ae@SD",
+      "name": "Spacetoon Arabic (576p)",
+      "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
