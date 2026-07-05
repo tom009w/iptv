@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -16937,6 +16937,33 @@
       "category": 7,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "NickelodeonCIS.kz@SD",
+      "name": "Nickelodeon CIS",
+      "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+      "logo_url": "https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NicktoonsCIS.ru@SD",
+      "name": "Nicktoons CIS",
+      "url": "https://stream8.cinerama.uz/1502/playlist.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PequesTV.pe@SD",
+      "name": "Peques TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "logo_url": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
