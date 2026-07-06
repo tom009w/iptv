@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -16964,6 +16964,375 @@
       "category": 7,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "YETMax",
+      "name": "YET Max",
+      "url": "https://sstudiostv.stream.onecloudlive.in/sstudiostv/yettv2/index.m3u8",
+      "logo_url": "https://yettelevision.com/assets/images/logo/channel_11847.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SakthiTVNellai",
+      "name": "Sakthi TV Nellai",
+      "url": "https://stream.onecloudlive.in/sachintv/sakthitv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/shakthi_tv_1770713832.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "JeevaTV",
+      "name": "Jeeva TV",
+      "url": "https://cdn1.rojatv.cloud/kumaran/tv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1782563544_WhatsApp%20Image%202026-06-27%20at%205.52.02%20PM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RainbowTV",
+      "name": "Rainbow TV",
+      "url": "https://live.cloudvu.in/rainbowtv/ssdslive/playlist.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "VIPTVVirudhunagar",
+      "name": "VIP TV Virudhunagar",
+      "url": "https://srv3.nellaiiptv.com/live/whistletv1/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "VelanTV",
+      "name": "Velan TV",
+      "url": "https://cloudstream4k.com/velantvhdkanchi/bsk/playlist.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1750343383_aPre-comp%201_01085.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "VaaniVisuals",
+      "name": "Vaani Visuals",
+      "url": "https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/playlist.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1749032751_vaani%20bbb.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BharathiThiraiUlagam",
+      "name": "Bharathi Thirai Ulagam",
+      "url": "https://bharathitv2-sscloud7-in.proxy.nellaiiptv.com/live/bharathithiraiulagam/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SMediaTKS",
+      "name": "S Media",
+      "url": "https://stream.onecloudlive.in/stv/stvhd/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1771245935.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RPlusTV",
+      "name": "R Plus TV",
+      "url": "https://rtmp.applelive.in/rplus/rplus/index.m3u8",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RPlusTV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RoyalTVGuduvancheri",
+      "name": "Royal TV Guduvancheri",
+      "url": "https://cloudstream4k.com/jptvhd/bsk/playlist.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1746501094_ROYAL%20TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ShakthiChannel",
+      "name": "Shakthi Channel",
+      "url": "https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1777567856_SALRHI%20TV%20LOGO%20PNG%20copy.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RubyDigitalTV",
+      "name": "Ruby Digital TV",
+      "url": "https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1781012797_RubyDigitalTv.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CityTVKanchi",
+      "name": "City TV Kanchipuram",
+      "url": "https://hd.singamcloud.in/citytv/citytv/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/M_CWfaT-P_VDylXWKXc_d96-TB_d_zSzqC_yf5WPUoPNJb1mg_RCa5kxh6s0lw0pD4hDmfpYfPg1p9jP6cwLQw",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DureshTV",
+      "name": "Duresh TV",
+      "url": "https://real-vk.proxy.nellaiiptv.com/PDPTV/index.m3u8",
+      "logo_url": "https://files.catbox.moe/2ozvwh.gif",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SMSTV",
+      "name": "SMS TV",
+      "url": "https://srv3.nellaiiptv.com/live/smstv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/sms_tv_1770712766.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ThendralNellai",
+      "name": "Thendral TV Nellai",
+      "url": "https://srv4.nellaiiptv.com/live/tv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1770712936.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SharkTV",
+      "name": "Shark TV",
+      "url": "https://srv4.nellaiiptv.com/live/789456/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/shark_tv_1770713207.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "GJVTV",
+      "name": "GJV TV",
+      "url": "https://srv4.nellaiiptv.com/live/SHYGKW/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/gjv_tv_1770713443.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NaveenTV",
+      "name": "Naveen TV",
+      "url": "https://srv3.nellaiiptv.com/live/naveentv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1772874205.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SriVarahiTV",
+      "name": "Sri Varahi TV",
+      "url": "https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TelemaxTamil",
+      "name": "Telemax Tamil",
+      "url": "https://real-vk.proxy.nellaiiptv.com/TELEMAX/index.m3u8",
+      "logo_url": "https://yt3.googleusercontent.com/JZFLrlPP5c1YGD1xxTkZ35B_uW9P_nUqeBLZPJqtOTlx0FDNnrmIHSzrzzOL6YMCJtniMPm3X_U",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DiamondTV",
+      "name": "Diamond TV",
+      "url": "https://real-vk.proxy.nellaiiptv.com/DIAMONDTV/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DiamondTalkies",
+      "name": "Diamond Talkies",
+      "url": "https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DiamondMusic",
+      "name": "Diamond Music",
+      "url": "https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SriVinayagaTV",
+      "name": "Sri Vinayaga TV",
+      "url": "https://1.proxy.nellaiiptv.com/srivinayagatv/hd/index.m3u8",
+      "logo_url": "https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SriVinayagaMovies",
+      "name": "Sri Vinayaga Movies",
+      "url": "https://1.proxy.nellaiiptv.com/srivinayagatv/movies/index.m3u8",
+      "logo_url": "https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SriVinayagaMusic",
+      "name": "Sri Vinayaga Music",
+      "url": "https://1.proxy.nellaiiptv.com/srivinayagatv/music/index.m3u8",
+      "logo_url": "https://tataprime.wordpress.com/wp-content/uploads/2024/03/20240330_1010229062871283623357358.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PDPTV",
+      "name": "PDP TV",
+      "url": "https://srv3.nellaiiptv.com/live/pdptv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/pdp_tv_1770711747.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ArunTV",
+      "name": "Arun TV",
+      "url": "https://srv4.nellaiiptv.com/live/aruntv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/arun_tv_1770713108.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "STVNellai",
+      "name": "S TV Nellai",
+      "url": "https://deva.nellaiiptv.com/live/devatv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1780489506.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "LourdesTV",
+      "name": "Lourdes TV",
+      "url": "https://srv2.nellaiiptv.com/live/pondicherry-lourdestv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1781266470.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SelfieTV2",
+      "name": "Selfie TV",
+      "url": "https://srv4.nellaiiptv.com/live/selfietv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1782729015.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "STVMDU",
+      "name": "S TV Madurai",
+      "url": "https://srv2.nellaiiptv.com/live/stv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1783178029.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PNTV",
+      "name": "PN TV",
+      "url": "https://stream.onecloudlive.in/pntv/pntv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1777320043.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SunSmartTV",
+      "name": "Sun Smart TV",
+      "url": "https://live3.onecloudlive.in/sunsmart/sunsmarttvhd/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1771310549.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SDMedia",
+      "name": "SD Media (No Signal)",
+      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KrishTV",
+      "name": "Krish TV",
+      "url": "https://stream.onecloudlive.in/krishnatv/krishnatvhd/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ThomaTV",
+      "name": "Thoma TV",
+      "url": "https://stream.onecloudlive.in/thoma/thoma/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1771244991.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SakthiTV2",
+      "name": "Sakthi TV",
+      "url": "https://real-vk.proxy.nellaiiptv.com/SAKTHITV/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "LuckyTVTK",
+      "name": "Lucky TV Tenkasi",
+      "url": "https://live.onecloudlive.in/luckytvtk/luckytv/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
