@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -17495,6 +17495,33 @@
       "category": 0,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "SlopesTV.us@SD",
+      "name": "Slopes TV (720p)",
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241",
+      "logo_url": "https://i.imgur.com/8bzAfgK.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "XFCTV.us@SD",
+      "name": "XFC TV (720p)",
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247",
+      "logo_url": "https://i.imgur.com/LcfzmG0.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonicTV.us@SD",
+      "name": "Sonic TV (720p)",
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764",
+      "logo_url": "https://i.imgur.com/TKhRlrR.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
