@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -17529,6 +17529,51 @@
       "url": "https://phcornerultralast.qzz.io/hls/laslo-serverless/dr_nickjr/index.m3u8",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
       "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NSports.br@SD",
+      "name": "N Sports (1080p)",
+      "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8",
+      "logo_url": "https://i.imgur.com/7QnJojr.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CartoonChannelPH.ph@SD",
+      "name": "Cartoon Channel PH (720p) [Geo-blocked]",
+      "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv",
+      "logo_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/af449718-cdf7-4357-b308-30edb3ac6eff-profile_image-300x300.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "VaagaiTV",
+      "name": "Vaagai TV",
+      "url": "https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai%20TV%20logo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AppleTVPondy",
+      "name": "Apple TV Puducherry",
+      "url": "https://srv4.nellaiiptv.com/live/pondicherry-appletv/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1777371219.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AgaramTV",
+      "name": "Agaram TV",
+      "url": "https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1783750961.webp",
+      "category": 0,
       "language": 0,
       "is_hd": false
     }
