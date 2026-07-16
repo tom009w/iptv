@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -17576,6 +17576,105 @@
       "category": 0,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "KozoomTV.fr@SD",
+      "name": "Kozoom TV (1080p)",
+      "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8",
+      "logo_url": "https://i.imgur.com/M1Ee79b.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SportsGrid.us@SD",
+      "name": "SportsGrid (1080p)",
+      "url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/ulGKX30.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "WorldPokerTour.us@US",
+      "name": "World Poker Tour (1080p)",
+      "url": "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
+      "logo_url": "https://i.imgur.com/98kLMjj.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ABNAndhraJyoti.in@SD",
+      "name": "ABN Andhra Jyoti (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ABPMajha.in@SD",
+      "name": "ABP Majha (360p)",
+      "url": "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BIGTV.in@SD",
+      "name": "BIG TV (720p)",
+      "url": "https://cdn-1.pishow.tv/live/1059/master.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_TV/images/LOGO_HD/image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "MahaaNews.in@SD",
+      "name": "Mahaa News",
+      "url": "https://cdn-1.pishow.tv/live/401/master.m3u8",
+      "logo_url": "https://i.imgur.com/buT76vR.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NewsIndia24x7.in@SD",
+      "name": "News India 24x7",
+      "url": "https://cdn-3.pishow.tv/live/273/master.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002N1TXH.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SakshiTV.in@SD",
+      "name": "Sakshi TV (576p)",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LOGO_HD/image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TV9Kannada.in@SD",
+      "name": "TV9 Kannada (720p) [Not 24/7]",
+      "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_KANNADA/images/LOGO_HD/image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TVPunjab.ca@SD",
+      "name": "TV Punjab (720p) [Geo-blocked]",
+      "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+      "logo_url": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
