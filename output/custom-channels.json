@@ -1112,7 +1112,7 @@
       "name": "ETV Music (1080p)",
       "url": "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
       "logo_url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -1256,7 +1256,7 @@
       "name": "Raj Musix Telugu (720p)",
       "url": "https://cdn-1.pishow.tv/live/1213/master.m3u8",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LOGO_HD/image.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -11741,7 +11741,7 @@
       "name": "Aastha Telugu (480p)",
       "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8",
       "logo_url": "https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11750,7 +11750,7 @@
       "name": "Bhakthi TV (720p)",
       "url": "https://cdn-1.pishow.tv/live/397/master.m3u8",
       "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -11768,7 +11768,7 @@
       "name": "CVR Health (576p)",
       "url": "https://cdn-6.pishow.tv/live/395/master.m3u8",
       "logo_url": "https://i.imgur.com/bCyW32I.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11777,7 +11777,7 @@
       "name": "CVR OM Spiritual (576p)",
       "url": "https://cdn-1.pishow.tv/live/957/master.m3u8",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11786,7 +11786,7 @@
       "name": "DD Saptagiri (576p)",
       "url": "https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11795,7 +11795,7 @@
       "name": "DD Yadagiri (576p)",
       "url": "https://cdn-1.pishow.tv/live/21/master.m3u8",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11804,7 +11804,7 @@
       "name": "Divyavani TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11822,7 +11822,7 @@
       "name": "ETV Comedy (1080p)",
       "url": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8",
       "logo_url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -11831,7 +11831,7 @@
       "name": "ETV Life (480p)",
       "url": "https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11840,7 +11840,7 @@
       "name": "Gospel TV India (720p)",
       "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
       "logo_url": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -11849,7 +11849,7 @@
       "name": "Hindu Dharmam (576p)",
       "url": "https://cdn-1.pishow.tv/live/959/master.m3u8",
       "logo_url": "https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11858,7 +11858,7 @@
       "name": "Mahaa Bhakti (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8",
       "logo_url": "https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -11867,7 +11867,7 @@
       "name": "Metro TV (1080p)",
       "url": "https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -11876,7 +11876,7 @@
       "name": "Nireekshana TV (576p)",
       "url": "https://cdn-1.pishow.tv/live/965/master.m3u8",
       "logo_url": "https://i.imgur.com/nGJv6QR.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -11885,7 +11885,7 @@
       "name": "PMC Telugu (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -11894,7 +11894,7 @@
       "name": "Subhavaartha TV (720p)",
       "url": "https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8",
       "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUBHAVAARTHA/images/LOGO_HD/image.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -11903,7 +11903,7 @@
       "name": "SVBC Sri Venkateswara Bhakti Channel (1080p)",
       "url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8",
       "logo_url": "https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
