@@ -708,7 +708,7 @@ http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 #EXTINF:-1 tvg-id="SriKrishnaTV@Tiruchengode" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SriKrishnaTCG.png" tvg-region="Tiruchengode;Namakkal" group-title="TAMIL",Sri Krishna TV Tiruchengode
 #http://krishnatk.7starcloud.com:1935/live/livestream/live.m3u8
 #EXTINF:-1 tvg-id="VaaniVisuals" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1749032751_vaani%20bbb.png" tvg-region="Chekkanurani;Madurai" group-title="TAMIL",Vaani Visuals
-https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/playlist.m3u8
+https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/index.m3u8
 #EXTINF:-1 tvg-id="KCTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1738325933_k%20ctn%20logo%20png.png" tvg-region="Kallakurichi" group-title="TAMIL",KCTN TV
 #http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VCTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1738325831_all.png" tvg-region="Kallakurichi" group-title="TAMIL",VCTN TV
@@ -1712,4 +1712,8 @@ https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8
 #EXTINF:-1 tvg-id="PugalTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Pugal TV
 http://pugal.phoenixcreations.online/pugaltv/pugal/playlist.m3u8
 #EXTINF:-1 tvg-id="MayilTV" tvg-logo="https://phoenixcreations.online/ott/vinayagaott/uploads/1782824649_mayil%20tv%20logo%20ip%20tv%20copy.jpg" tvg-region="Mayiladuthurai" group-title="TAMIL",Mayil TV
-http://103.186.231.25:8080/hls/mayiltv/index.m3u8
+http://103.186.231.25:8080/hls/mayiltv/index.m3u8
+#EXTINF:-1 tvg-id="RoyalTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="TAMIL",Royal TV Nellai
+https://srv4.nellaiiptv.com/live/STRM-BX74/index.m3u8
+#EXTINF:-1 tvg-id="MTNTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",MTN TV
+https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
