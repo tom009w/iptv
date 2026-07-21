@@ -25,8 +25,6 @@ http://103.72.101.252:8080/live/1369.m3u8
 http://103.72.101.252:8080/live/756.m3u8
 #EXTINF:-1 tvg-id="ColorsGujarati.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png" group-title="Entertainment",Colors Gujarati (1080p)
 http://103.72.101.252:8080/live/196.m3u8
-#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (720p)
-https://trs1.aynaott.com/colorshd/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Entertainment",Colors Infinity (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ColorsInfinity.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" group-title="Entertainment",Colors Infinity HD (1080p)
@@ -183,10 +181,14 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 http://103.213.31.109:90/ShemarooUmang/playlist.m3u8
 #EXTINF:-1 tvg-id="SiriKannada.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540" group-title="Entertainment",Siri Kannada (576p)
 https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
+#EXTINF:-1 tvg-id="SiriKannadaAllTime.in@SD" tvg-logo="https://i.imgur.com/IR0BrEX.jpeg" group-title="Entertainment",Siri Kannada All Time (576p)
+https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment Television HD (1080p)
 http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega
 #EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png" group-title="Entertainment",Sony Marathi (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB HD (1080i)
+http://202.70.146.135:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" group-title="Entertainment",Spondon (1080p)
@@ -203,8 +205,8 @@ http://217.20.112.199:8080/maatv/index.m3u8
 http://149.71.34.166:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus (576p)
 http://41.205.77.102/STAR-PLUS/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus HD (720p)
-https://trs1.aynaott.com/starplushd/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus HD (1080i)
+http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="StudioYuva.in@SD" tvg-logo="https://i.imgur.com/BOhgz2T.png" group-title="Entertainment",Studio Yuva (576p)
 https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="Entertainment",Subin TV (1080p)

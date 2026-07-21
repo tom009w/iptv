@@ -281,8 +281,8 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids",El Chavo TV (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Animation",EnerGeek (1080p)
-https://iptv2.cronet.cl/ENERGEEK_RETRO/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek Fan (1080p)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max TV
@@ -379,6 +379,8 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel (1080p)
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Keedoo.gr@SD" tvg-logo="https://i.imgur.com/bfvVUyb.png" group-title="Kids",Keedoo (576p)
+http://185.102.171.218/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="KetchupTV.us@SD" tvg-logo="https://i.imgur.com/XRGioQX.png" group-title="Kids",Ketchup TV (720p)
 https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kiddo+ (1080p)

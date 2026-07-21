@@ -567,6 +567,8 @@ https://srv3.nellaiiptv.com/live/whistletv1/index.m3u8
 https://srv2.nellaiiptv.com/live/whistletv2/index.m3u8
 #EXTINF:-1 tvg-id="DuraiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DuraiTV.png" tvg-region="Alangulam;Tenkasi" group-title="TAMIL",Durai TV
 https://ipcloud.live/duraitv/live/index.m3u8
+#EXTINF:-1 tvg-id="DuraiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DuraiTV.png" tvg-region="Alangulam;Tenkasi" group-title="TAMIL",Durai TV [IPLive]
+https://stream.iplive.xyz/hls/duraitv/index.m3u8
 #EXTINF:-1 tvg-id="DuraiMelodies" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DuraiMelodies.png" tvg-region="Alangulam;Tenkasi" group-title="TAMIL",Durai Melodies
 https://stream.onecloudlive.in/duraitv/classic/index.m3u8
 #EXTINF:-1 tvg-id="AkashTV" tvg-logo="https://tvchannel.in/wp-content/uploads/2025/03/akash-tv-300x169.jpg" tvg-region="Chennai" group-title="TAMIL",Akash TV
@@ -890,7 +892,7 @@ https://ipcloud.live/kingtv/kingtv/index.mpd
 #EXTINF:-1 tvg-id="YatraTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762598647_IMG-20251108-WA0090.jpg" tvg-region="Unknown" group-title="TAMIL",Yatra TV
 https://stream.onecloudlive.in/yatra/yatratv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTVKarur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ95uEPKWiZx3qLhYsQ0Fu1MDRu8RZGpt8HIw&s" tvg-region="Karur" group-title="TAMIL",Suriyan TV Karur
-https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+https://view.rcserver.in/tmp_hls9/index.m3u8
 #EXTINF:-1 tvg-id="NRSChannel" tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_" tvg-region="Rasipuram;Salem" group-title="TAMIL",NRS Channel
 https://notvstream.in/nrstv/nrstv/index.m3u8
 #EXTINF:-1 tvg-id="TiruppurVoiceTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/TiruppurVoiceTV.png" tvg-region="Tiruppur" group-title="TAMIL",Tiruppur Voice TV
@@ -1719,5 +1721,5 @@ http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 https://srv4.nellaiiptv.com/live/STRM-BX74/index.m3u8
 #EXTINF:-1 tvg-id="MTNTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784140379_mtn%20tv.png" tvg-region="Unknown" group-title="TAMIL",MTN TV
 https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
-#EXTINF:-1 tvg-id="SwastikTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Swastik TV
+#EXTINF:-1 tvg-id="SwastikTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="TAMIL",Swastik TV
 https://rtmp.applelive.in/swastiktv/swastiktv/index.m3u8
