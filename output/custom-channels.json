@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -17819,6 +17819,87 @@
       "category": 0,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "SkySportsCricket.uk@HD",
+      "name": "Sky Sports Cricket HD (1080p)",
+      "url": "https://xemzi.short.gy/2000006",
+      "logo_url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SkySportsF1.ie@SD",
+      "name": "Sky Sports F1 (1080p)",
+      "url": "https://xemzi.short.gy/2000005",
+      "logo_url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SkySportsFootball.ie@SD",
+      "name": "Sky Sports Football (1080p)",
+      "url": "https://xemzi.short.gy/2000003",
+      "logo_url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SkySportsGolf.uk@HD",
+      "name": "Sky Sports Golf HD (1080p)",
+      "url": "https://xemzi.short.gy/2000009",
+      "logo_url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SkySportsMainEvent.ie@HD",
+      "name": "Sky Sports Main Event HD (1080p)",
+      "url": "https://xemzi.short.gy/2000001",
+      "logo_url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "VSBetHD.vn@HD",
+      "name": "VSBet HD (1080p)",
+      "url": "https://live05.meung.app/live/90865415.m3u8",
+      "logo_url": "https://i.imgur.com/sMhL2Nl.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Balapan.kz@HD",
+      "name": "Balapan HD (1080p)",
+      "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+      "logo_url": "https://vote.rtrk.kz/img/balapan-logo.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BalapanInternational.kz@SD",
+      "name": "Balapan International (1080p)",
+      "url": "https://live-3.otcnet.ru/Balapan/index.m3u8",
+      "logo_url": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SBTKids.br@SD",
+      "name": "SBT Kids (1080p) [Geo-blocked]",
+      "url": "https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/pt/1/19/SBTKids2026.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
