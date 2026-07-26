@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -17961,6 +17961,285 @@
       "url": "https://sra72yz.s.gy/NICK_WEST_US",
       "logo_url": "https://i.imgur.com/E84jnP8.png",
       "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "EpicMusic.in@SD",
+      "name": "Epic Music (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "EpicBhojpuri.in@SD",
+      "name": "Epic Bhojpuri (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
+      "category": 6,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "EzhilTV",
+      "name": "Ezhil TV",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/EZHILTV/index.m3u8?token=GTR",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1740735792_SAVE_20250228_143607.jpg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KavinTV",
+      "name": "Kavin TV",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/KAVINTV/index.m3u8?token=GTR",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN%20TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AarthiTV",
+      "name": "Aarthi TV",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/AARTHITV/index.m3u8?token=GTR",
+      "logo_url": "https://play-lh.googleusercontent.com/K4lcOJ00VUc3V-PTjXS-CGy4uVx5YmktXOl1RT33UsX5fvXfOu-ZhFCWBmd66UImc_Q",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SkyTV2",
+      "name": "Sky TV",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/SKYTV/index.m3u8?token=GTR",
+      "logo_url": "https://play-lh.googleusercontent.com/eMcTyIjUHgM010YOPPk2HquXyNMmdYVI5iDMMv17PNyndEOS61OAIXNf8ZTclcRR9_k",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KanchiTV",
+      "name": "Kanchi TV",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/KANCHITV/index.m3u8?token=GTR",
+      "logo_url": "https://play-lh.googleusercontent.com/CgvOoJ4ewOfDSZi8OHbmkX6Ucxoqjt70abOuxNN1uPh3uvKnvuEhBOoZXjcCCRWOcq3J",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SNRTV",
+      "name": "SNR TV",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/ASOSACHENNAI/index.m3u8?token=GTR",
+      "logo_url": "https://i.ibb.co/N25vZ9yM/SNR-TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ChitherTV",
+      "name": "Chither TV",
+      "url": "https://3.proxy.nellaiiptv.com/DINESH/PT2/index.m3u8?token=YAAL",
+      "logo_url": "https://i.ibb.co/9HLHx70N/chither.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SiddharIsai",
+      "name": "Siddhar Isai",
+      "url": "https://3.proxy.nellaiiptv.com/DINESH/PT/index.m3u8?token=YAAL",
+      "logo_url": "https://i.ibb.co/CprjkByr/Gemini-Generated-Image-z8g34uz8g34uz8g3.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TSNMusic",
+      "name": "TSN Music",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/VAAGAI/index.m3u8?token=GTR",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/TSNMusic.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AppuTV",
+      "name": "Appu TV",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/IWORLDHD/index.m3u8?token=GTR",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AppuTV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SRMusix",
+      "name": "SR Musix",
+      "url": "https://srnet-bmlive-net.proxy.nellaiiptv.com/srmusic/myStream/playlist.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1773995120_WhatsApp%20Image%202026-03-20%20at%201.49.08%20PM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "IsaiSaral",
+      "name": "Isai Saral",
+      "url": "https://srnet-bmlive-net.proxy.nellaiiptv.com/isaisaral/mystream/playlist.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1773995237_WhatsApp%20Image%202026-03-20%20at%201.47.36%20PM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KanchiMedia",
+      "name": "Kanchi Media",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/KANCHIMEDIA/index.m3u8?token=GTR",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KanchiMedia.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AnalaiExpress",
+      "name": "Analai Express",
+      "url": "https://3.proxy.nellaiiptv.com/ANALAI_MOVIE/index.m3u8?token=GTR",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AnalaiExpress.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AnalaiExpressCinema",
+      "name": "Analai Express Cinema",
+      "url": "https://3.proxy.nellaiiptv.com/MONTAMIL_CINEMA/index.m3u8?token=GTR",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AnalaiExpressCinema.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CrayonzTV",
+      "name": "Crayonz TV",
+      "url": "https://sanplayout.xyz/live2/crayonztv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "News80Tamil",
+      "name": "News 80 Tamil",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/NEWS80/index.m3u8?token=GTR",
+      "logo_url": "https://play-lh.googleusercontent.com/vUleh6XgoF2Ouabo6ImWZFg1wZY0xiFZDgp8d2fl2wvx2gejgt7eavWhn9DxTVEtw4I",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SilverSatMedia",
+      "name": "Silver Sat Media",
+      "url": "https://sanplayout.xyz/live2/silversatmedia/index.m3u8",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SilverSatMedia.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "GoldenTV",
+      "name": "Golden TV",
+      "url": "https://sanplayout.xyz/live2/goldentv/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "IdhayamTV",
+      "name": "Idhayam TV",
+      "url": "https://sanplayout.xyz/live2/idhayamtv/index.m3u8",
+      "logo_url": "http://phoenixcreations.online/ott/jayamott/uploads/1778983521_WhatsApp%20Image%202026-05-17%20at%207.34.56%20AM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "IdhayamKids",
+      "name": "Idhayam Kids",
+      "url": "https://sanplayout.xyz/live2/idhayamkidz/index.m3u8",
+      "logo_url": "https://phoenixcreations.online/ott/jayamott/uploads/1778983676_WhatsApp%20Image%202026-05-17%20at%207.34.57%20AM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "A1MediaNews",
+      "name": "A1 Media News",
+      "url": "https://sanplayout.xyz/live2/a1medianews/index.m3u8",
+      "logo_url": "https://phoenixcreations.online/ott/jayamott/uploads/1778983617_WhatsApp%20Image%202026-05-17%20at%207.34.58%20AM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "EuroTamil",
+      "name": "Euro Tamil",
+      "url": "https://3.proxy.nellaiiptv.com/DINESH/EURO/index.m3u8?token=YAAL",
+      "logo_url": "https://i.ibb.co/xSgwy63x/Eurotamil-logo-V3.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NRJTV",
+      "name": "NRJ TV",
+      "url": "https://3.proxy.nellaiiptv.com/DINESH/NRJTV/index.m3u8?token=YAAL",
+      "logo_url": "https://i.ibb.co/rRGbbWJd/1-copy.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PJTV",
+      "name": "PJ TV",
+      "url": "https://3.proxy.nellaiiptv.com/DINESH/PJTV/index.m3u8?token=YAAL",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1782102762.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "EyeTamil",
+      "name": "Eye Tamil",
+      "url": "https://2.proxy.nellaiiptv.com/EyeMedia/EyeTV/index.m3u8",
+      "logo_url": "https://i.ibb.co/60gWgPP3/eye.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "EyeTamilMusic",
+      "name": "Eye Tamil Music",
+      "url": "https://2.proxy.nellaiiptv.com/EyeMedia/music/index.m3u8",
+      "logo_url": "https://i.ibb.co/nqp6JC71/eye-music.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SriVinayagaHollywood",
+      "name": "Sri Vinayaga Hollywood",
+      "url": "https://1.proxy.nellaiiptv.com/srivinayagatv/hollywood/playlist.m3u8",
+      "logo_url": "https://phoenixcreations.online/ott/vinayagaott/uploads/1782962302_hollywood%202.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DocuBayTV.in@SD",
+      "name": "DocuBay TV (1080p)",
+      "url": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/OGyeLLR.png",
+      "category": 0,
       "language": 0,
       "is_hd": true
     }
