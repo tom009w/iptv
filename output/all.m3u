@@ -805,8 +805,8 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="DiviSport.ua@SD" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Sports",DiviSport (1080p)
 http://stream.mcquack.net/457/index.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Entertainment;Sports",Đồng Nai 2 (480p) [Not 24/7]
-http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV2.vn@SD" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Entertainment;Sports",Dong Nai TV 2 (720p)
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD" tvg-logo="https://i.imgur.com/SFYhgrt.png" group-title="Sports",DraftKings Network (1080p)
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DSports (720p)
@@ -1491,6 +1491,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr@SD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports",Trace Sport Stars SD
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="Sports",TRT Spor Yildiz (1440p) [Geo-blocked]
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
 http://40.160.24.55/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN2.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="Sports",TSN2 (1080p)
@@ -2405,6 +2407,8 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids",Disney Channel (720p)
 http://206.212.244.63/650/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelEMEA.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel EMEA (576p)
+http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Center (1080p)
@@ -2523,6 +2527,8 @@ https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 #EXTINF:-1 tvg-id="Gong.fr@SD" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="Animation",Gong (1080p)
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="GreenGoldTV.np@SD" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" group-title="Kids",Green Gold TV
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-logo="https://i.imgur.com/kqYssbW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="GulliGirl.ru@SD" tvg-logo="https://i.imgur.com/lbViDuC.png" group-title="Kids",Gulli Girl (720p)
@@ -3179,6 +3185,8 @@ https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
 https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 #EXTINF:-1 tvg-id="TransformersTV.us@SD" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" group-title="Kids",Transformers TV (720p)
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Cocuk (1440p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TurmadaMonica.us@Brazil" tvg-logo="https://i.imgur.com/nrvPPrW.png" group-title="Kids",Turma da Mônica (720p)
@@ -3802,9 +3810,9 @@ https://notvstream.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-id="SmileyTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737125892_Smiley%20Logo%20181122.png" tvg-region="Tenkasi" group-title="TAMIL",Smiley TV
 https://live1.sscloud7.com/live/smileytv/index.m3u8
 #EXTINF:-1 tvg-id="VIPTVVirudhunagar" tvg-logo="" tvg-region="Virudhunagar" group-title="TAMIL",VIP TV Virudhunagar
-https://srv3.nellaiiptv.com/live/whistletv1/index.m3u8
+https://whistletv1.stream.nellaiiptv.com/live/whistletv1/index.m3u8
 #EXTINF:-1 tvg-id="VishilMax" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1744985304.jpeg" tvg-region="Virudhunagar" group-title="TAMIL",Vishil TV 2
-https://srv2.nellaiiptv.com/live/whistletv2/index.m3u8
+https://whistletv2.stream.nellaiiptv.com/live/whistletv2/index.m3u8
 #EXTINF:-1 tvg-id="DuraiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DuraiTV.png" tvg-region="Alangulam;Tenkasi" group-title="TAMIL",Durai TV
 https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:-1 tvg-id="DuraiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DuraiTV.png" tvg-region="Alangulam;Tenkasi" group-title="TAMIL",Durai TV [IPLive]
@@ -4188,9 +4196,9 @@ https://app.ashokadigital.net/app/68b001a0/index.m3u8
 #EXTINF:-1 tvg-id="CITIChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" tvg-region="Karnataka" group-title="TAMIL",Citi Channel
 https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
 #EXTINF:-1 tvg-id="VTamizh" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1734235815_WhatsApp_Image_2024-12-15_at_8.10.00_AM-removebg-preview.png" tvg-region="Unknown" group-title="TAMIL",V Tamizh
-https://srv4.nellaiiptv.com/vtv/vtv/index.m3u8
+http://stream.dureshtech.com/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="VMuziq" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1765724593_IMG-20251214-WA0210.png" tvg-region="Unknown" group-title="TAMIL",V Muziq
-https://srv4.nellaiiptv.com/live/vmusictv/index.m3u8
+https://vmusictv.stream.nellaiiptv.com/live/vmusictv/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTVKarur" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/UdhayamTVKarur.png" tvg-region="Karur" group-title="TAMIL",Udhayam TV Karur
 https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
 #EXTINF:-1 tvg-id="AzhagiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AzhagiTV.png" tvg-region="Unknown" group-title="TAMIL",Azhagi TV
@@ -4560,7 +4568,7 @@ rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
 #EXTINF:-1 tvg-id="DSRChannel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772769336_WhatsApp%20Image%202026-03-05%20at%208.36.34%20AM.jpeg" tvg-region="Unknown" group-title="TAMIL",DSR Channel
 https://ipcloud.live/dsrchannel/dsrhd/index.m3u8
 #EXTINF:-1 tvg-id="NilaTVSVG" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772708977_Nila%20Tv_00151.png" tvg-region="Sivaganga" group-title="TAMIL",Nila TV Sivaganga
-https://srv4.nellaiiptv.com/nilatvsg/nilatvsg/index.m3u8
+https://nilatvsg.stream.nellaiiptv.com/nilatvsg/nilatvsg/index.m3u8
 #EXTINF:-1 tvg-id="AanmikaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775583135_WhatsApp%20Image%202026-04-07%20at%206.53.44%20PM.jpeg" tvg-region="Sivaganga" group-title="TAMIL",Aanmika TV
 #https://stream.onecloudlive.in/nilatvsvg/nilaomtv/index.m3u8
 #EXTINF:-1 tvg-id="MaduraTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253349.webp" tvg-region="Madurai" group-title="TAMIL",Madura TV
@@ -4866,15 +4874,15 @@ https://hd.singamcloud.in/citytv/citytv/index.m3u8
 #EXTINF:-1 tvg-id="DureshTV" tvg-logo="https://files.catbox.moe/2ozvwh.gif" tvg-region="Tirunelveli" group-title="TAMIL",Duresh TV
 https://real-vk.proxy.nellaiiptv.com/PDPTV/index.m3u8
 #EXTINF:-1 tvg-id="SMSTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sms_tv_1770712766.webp" tvg-region="Tirunelveli" group-title="TAMIL",SMS TV
-https://srv3.nellaiiptv.com/live/smstv/index.m3u8
+https://smstv.stream.nellaiiptv.com/live/smstv/index.m3u8
 #EXTINF:-1 tvg-id="ThendralNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1770712936.webp" tvg-region="Tirunelveli" group-title="TAMIL",Thendral TV Nellai
-https://srv4.nellaiiptv.com/live/tv/index.m3u8
+https://vmusictv.stream.nellaiiptv.com/live/tv/index.m3u8
 #EXTINF:-1 tvg-id="SharkTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/shark_tv_1770713207.webp" tvg-region="Tirunelveli" group-title="TAMIL",Shark TV
-https://srv4.nellaiiptv.com/live/789456/index.m3u8
+https://sharktv.stream.nellaiiptv.com/live/789456/index.m3u8
 #EXTINF:-1 tvg-id="GJVTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/gjv_tv_1770713443.webp" tvg-region="Tirunelveli" group-title="TAMIL",GJV TV
-https://srv4.nellaiiptv.com/live/SHYGKW/index.m3u8
+https://gjvtv.nellaiiptv.com/live/SHYGKW/index.m3u8
 #EXTINF:-1 tvg-id="NaveenTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772874205.webp" tvg-region="Tirunelveli" group-title="TAMIL",Naveen TV
-https://srv3.nellaiiptv.com/live/naveentv/index.m3u8
+https://naveentv.stream.nellaiiptv.com/live/naveentv/index.m3u8
 #EXTINF:-1 tvg-id="SriVarahiTV" tvg-logo="" tvg-region="" group-title="TAMIL",Sri Varahi TV
 https://real-vk.proxy.nellaiiptv.com/SRIVARAHITV/index.m3u8
 #EXTINF:-1 tvg-id="TelemaxTamil" tvg-logo="https://yt3.googleusercontent.com/JZFLrlPP5c1YGD1xxTkZ35B_uW9P_nUqeBLZPJqtOTlx0FDNnrmIHSzrzzOL6YMCJtniMPm3X_U" tvg-region="Chennai" group-title="TAMIL",Telemax Tamil
@@ -4894,15 +4902,15 @@ https://1.proxy.nellaiiptv.com/srivinayagatv/music/index.m3u8
 #EXTINF:-1 tvg-id="SriVinayagaHollywood" tvg-logo="https://phoenixcreations.online/ott/vinayagaott/uploads/1782962302_hollywood%202.png" tvg-region="Uthangarai;Krishnagiri" group-title="TAMIL",Sri Vinayaga Hollywood
 https://1.proxy.nellaiiptv.com/srivinayagatv/hollywood/playlist.m3u8
 #EXTINF:-1 tvg-id="PDPTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/pdp_tv_1770711747.webp" tvg-region="Tirunelveli" group-title="TAMIL",PDP TV
-https://srv3.nellaiiptv.com/live/pdptv/index.m3u8
+https://pdptv.stream.nellaiiptv.com/live/pdptv/index.m3u8
 #EXTINF:-1 tvg-id="ArunTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/arun_tv_1770713108.webp" tvg-region="Tirunelveli" group-title="TAMIL",Arun TV
-https://srv4.nellaiiptv.com/live/aruntv/index.m3u8
+http://stream.dureshtech.com/live/aruntv/index.m3u8
 #EXTINF:-1 tvg-id="ITV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784626706.webp" tvg-region="Tirunelveli" group-title="TAMIL",I TV
 https://deva.nellaiiptv.com/live/devatv/index.m3u8
 #EXTINF:-1 tvg-id="LourdesTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781266470.webp" tvg-region="Puducherry" group-title="TAMIL",Lourdes TV
 https://pondicherry-lourdestv.stream.nellaiiptv.com/live/pondicherry-lourdestv/index.m3u8
 #EXTINF:-1 tvg-id="SelfieTV2" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784266089.webp" tvg-region="Unknown" group-title="TAMIL",Selfie TV
-https://srv4.nellaiiptv.com/live/selfietv/index.m3u8
+https://selfietv.stream.nellaiiptv.com/live/selfietv/index.m3u8
 #EXTINF:-1 tvg-id="STVMDU" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783178029.webp" tvg-region="Madurai" group-title="TAMIL",S TV Madurai
 https://stv.stream.nellaiiptv.com/live/stv/index.m3u8
 #EXTINF:-1 tvg-id="PNTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777320043.webp" tvg-region="Unknown" group-title="TAMIL",PN TV
@@ -4934,7 +4942,7 @@ https://stream.onecloudlive.in/skytvhd/skytvhd/index.m3u8
 #EXTINF:-1 tvg-id="VaagaiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai%20TV%20logo.png" tvg-region="Unknown" group-title="TAMIL",Vaagai TV
 https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVPondy" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777371219.webp" tvg-region="Puducherry" group-title="TAMIL",Apple TV Puducherry
-https://srv4.nellaiiptv.com/live/pondicherry-appletv/index.m3u8
+https://pondicherry-appletv.stream.nellaiiptv.com/live/pondicherry-appletv/index.m3u8
 #EXTINF:-1 tvg-id="AgaramTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783750961.webp" tvg-region="Unknown" group-title="TAMIL",Agaram TV
 https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8
 #EXTINF:-1 tvg-id="PugalTV" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Pugal TV
@@ -4942,7 +4950,7 @@ http://pugal.phoenixcreations.online/pugaltv/pugal/playlist.m3u8
 #EXTINF:-1 tvg-id="MayilTV" tvg-logo="https://phoenixcreations.online/ott/vinayagaott/uploads/1782824649_mayil%20tv%20logo%20ip%20tv%20copy.jpg" tvg-region="Mayiladuthurai" group-title="TAMIL",Mayil TV
 http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 #EXTINF:-1 tvg-id="RoyalTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="TAMIL",Royal TV Nellai
-https://srv4.nellaiiptv.com/live/STRM-BX74/index.m3u8
+https://royaltv.nellaiiptv.com/live/STRM-BX74/index.m3u8
 #EXTINF:-1 tvg-id="MTNTV" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1785126728_LOGO.png" tvg-region="Unknown" group-title="TAMIL",MTN TV
 https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-id="SwastikTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="TAMIL",Swastik TV
@@ -4955,6 +4963,8 @@ http://balatv.phoenixcreations.online/balatv/bala/playlist.m3u8
 https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-id="ThogaiTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785217175_Thogai%20New%20Logo.png" tvg-region="Unknown" group-title="TAMIL",Thogai TV
 https://thogaitv.stream.onecloudlive.in/thogaitv/12345678/index.m3u8
+#EXTINF:-1 tvg-id="SGBTV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000159114-1781435419226.jpg" tvg-region="Unknown" group-title="TAMIL",SGB TV
+https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="TELUGU",6 TV Telugu (576p)
 https://cdn-1.pishow.tv/live/232/master.m3u8
 #EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png" group-title="TELUGU",10 TV (720p)

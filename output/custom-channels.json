@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -18365,6 +18365,33 @@
       "name": "JTBS Classic",
       "url": "https://jtbsclassic.dpdns.org/live.m3u8",
       "logo_url": "https://jtbs-classic.web.app/logo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DongNaiTV2.vn@SD",
+      "name": "Dong Nai TV 2 (720p)",
+      "url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8",
+      "logo_url": "https://i.imgur.com/tNKPSkO.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GreenGoldTV.np@SD",
+      "name": "Green Gold TV",
+      "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8",
+      "logo_url": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SGBTV",
+      "name": "SGB TV",
+      "url": "https://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8",
+      "logo_url": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000159114-1781435419226.jpg",
       "category": 0,
       "language": 0,
       "is_hd": false
