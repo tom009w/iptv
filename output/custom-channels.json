@@ -11813,7 +11813,7 @@
       "name": "ETV Abhiruchi (1080p)",
       "url": "https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8",
       "logo_url": "https://i.imgur.com/3D5SN3E.png",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": true
     },
@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -18581,6 +18581,96 @@
       "name": "Himalaya TV",
       "url": "https://app.ashokadigital.net/app/eb990565/index.m3u8",
       "logo_url": "https://livetv.ashokadigital.net/upload/logo/1780921420_himalaya%20tv%20hosur.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ZeeKannada.in@HD",
+      "name": "Zee Kannada HD (1080p)",
+      "url": "https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KANNADA_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ETVPlus.in@SD",
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ETVPlus.in@HD",
+      "name": "ETV Plus HD (1080p)",
+      "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PulariTV.in@SD",
+      "name": "Pulari TV",
+      "url": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8",
+      "logo_url": "https://i.imgur.com/v5urG30.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "RajTV.in@SD",
+      "name": "Raj TV (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ETVCinema.in@SD",
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540",
+      "category": 6,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AnimaxAsia.sg@Philippines",
+      "name": "Animax Asia Philippines (576p)",
+      "url": "https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AruljothiTV.in@SD",
+      "name": "Aruljothi TV (576p)",
+      "url": "https://jothi.inet.moe/jothitv/index.m3u8",
+      "logo_url": "https://i.imgur.com/BmQ0r5S.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BritainTamilBhakthi",
+      "name": "Britain Tamil Bhakthi [IPTelevision]",
+      "url": "https://tcclbtc.iptelevision.live/btc/video.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "VaanamTV",
+      "name": "Vaanam TV",
+      "url": "https://lanka.vaanam24.com:3712/hybrid/play.m3u8",
+      "logo_url": "",
       "category": 0,
       "language": 0,
       "is_hd": false

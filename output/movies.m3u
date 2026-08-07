@@ -43,6 +43,8 @@ http://103.72.101.252:8080/live/1632.m3u8
 https://cdn-1.pishow.tv/live/235/master.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies",Epic Bhojpuri (576p)
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="ETVCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" group-title="Movies",ETV Cinema (396p)
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ETVCinema.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" group-title="Movies",ETV Cinema HD (1080p)
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies",Goldmines (576p)
@@ -101,6 +103,8 @@ https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/in
 http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2 (576p)
 http://149.71.34.166:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in@SD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="Movies",Sony Pix
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Movies",Sony Pix HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png" group-title="Movies",Sony Wah (1080p) [Geo-blocked]
@@ -139,10 +143,10 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="Classic;Movies",ZB Cinema (720p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action (576p)
-http://103.72.101.252:8080/live/488.m3u8
-#EXTINF:-1 tvg-id="ZeeBiskope.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Biskope (576p)
-http://103.154.3.101:5001/live/559.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ZeeBiskope.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Biskope (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="ZeeBollymovies.in@SD" tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" group-title="Movies",Zee Bollymovies (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBollymovies.in@Australia" tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" group-title="Movies",Zee Bollymovies Australia (1080p) [Geo-blocked]

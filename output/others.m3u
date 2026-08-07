@@ -31,6 +31,8 @@ https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/p
 https://cdn-1.pishow.tv/live/961/master.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="Religious",Arputhar Yesu TV (720p)
 https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
+#EXTINF:-1 tvg-id="AruljothiTV.in@SD" tvg-logo="https://i.imgur.com/BmQ0r5S.png" group-title="Religious",Aruljothi TV (576p)
+https://jothi.inet.moe/jothitv/index.m3u8
 #EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png" group-title="Undefined",Aryan TV National (576p)
 https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" group-title="Lifestyle",Ayush TV (360p) [Not 24/7]
@@ -133,6 +135,8 @@ https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 #EXTINF:-1 tvg-id="ETNowSwadesh.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png" group-title="Business",ET Now Swadesh (720p)
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="ETVAbhiruchi.in@SD" tvg-logo="https://i.imgur.com/3D5SN3E.png" group-title="Cooking",ETV Abhiruchi (1080p)
+https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
 #EXTINF:-1 tvg-id="ETVComedy.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png" group-title="Comedy",ETV Comedy (1080p)
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png" group-title="Lifestyle",ETV Life (480p)
@@ -353,6 +357,8 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VillageTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="Religious",Village TV (576p)
 https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+#EXTINF:-1 tvg-id="Vision.in@SD" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="General",Vision (576p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VTU.in@SD" tvg-logo="https://i.imgur.com/zMwZRGJ.png" group-title="Undefined",VTU (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
 #EXTINF:-1 tvg-id="WayanadVision.in@SD" tvg-logo="https://i.imgur.com/yF2C4Dt.png" group-title="General",Wayanad Vision (1080p)

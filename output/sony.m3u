@@ -7,6 +7,8 @@ https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
 http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="SONY",Sony Max 2 (576p)
 http://149.71.34.166:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in@SD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="SONY",Sony Pix
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="SONY",Sony Pix HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="SONY",Sony Sports Ten 3 Hindi (576p)
