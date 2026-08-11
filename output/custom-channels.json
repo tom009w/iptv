@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -18836,6 +18836,15 @@
       "category": 0,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "ZeeBollywood.in@SD",
+      "name": "Zee Bollywood (580p)",
+      "url": "https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
