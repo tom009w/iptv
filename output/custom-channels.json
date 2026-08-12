@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -18843,6 +18843,87 @@
       "url": "https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8",
       "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540",
       "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ColorsGujarati.in@SD",
+      "name": "Colors Gujarati (396p)",
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BalleBalle.in@SD",
+      "name": "Balle Balle (720p)",
+      "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ElHeddafTV.dz@SD",
+      "name": "El-Heddaf TV (1080p)",
+      "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
+      "logo_url": "https://i.imgur.com/cDkIDIA.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FUELTV.pt@US",
+      "name": "Fuel TV (1080p) [Geo-blocked]",
+      "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/I8mviBy.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NESN.us@SD",
+      "name": "NESN (720p)",
+      "url": "https://gpuserver3.tier1streams.com/NESN/index.m3u8",
+      "logo_url": "https://i.imgur.com/Lv1bUG5.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "RightNowTV.us@SD",
+      "name": "RightNow TV (720p)",
+      "url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/OxbIla4.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BharatExpress.in@SD",
+      "name": "Bharat Express (480p)",
+      "url": "https://stream1.livebox.co.in/VCAREhls/live.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PrathamKhabar24x7.in@SD",
+      "name": "Pratham Khabar 24x7 (576p)",
+      "url": "https://livelegitpro.in/hls2/newstime/index.m3u8",
+      "logo_url": "https://i.imgur.com/HNsg5Px.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Super.it@SD",
+      "name": "Super!",
+      "url": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png",
+      "category": 7,
       "language": 0,
       "is_hd": false
     }
