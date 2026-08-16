@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -18933,6 +18933,78 @@
       "url": "https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png",
       "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ESPNDeportes.us@HD",
+      "name": "ESPN Deportes HD (720p)",
+      "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PremierFootball.ph@SD",
+      "name": "Premier Football (1080p)",
+      "url": "https://streams.comclark.com/pknhd/premier_football/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/lKjXwtG.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SriKrishnaTV@Tiruchengode",
+      "name": "Sri Krishna TV Tiruchengode",
+      "url": "https://app.ashokadigital.net/app/63351686/index.m3u8",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SriKrishnaTCG.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AarthiPlus",
+      "name": "Aarthi+",
+      "url": "https://3.proxy.nellaiiptv.com/NOTV/AARTHITV/index.m3u8?token=GTR",
+      "logo_url": "https://play-lh.googleusercontent.com/K4lcOJ00VUc3V-PTjXS-CGy4uVx5YmktXOl1RT33UsX5fvXfOu-ZhFCWBmd66UImc_Q",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "IdhayamTV2",
+      "name": "Idhayam TV",
+      "url": "https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1786437660_c693de12-bd16-4691-b98b-e7055e31d6ac-Photoroom.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TBCTV",
+      "name": "TBC TV",
+      "url": "https://stream.iplive.xyz/smmedia/tbctv/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CGTV",
+      "name": "CG TV",
+      "url": "https://stream.onecloudlive.in/cctv/cctvhd/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AgamTV",
+      "name": "Agam TV",
+      "url": "https://lanka.vaanam24.com:3682/hybrid/play.m3u8",
+      "logo_url": "https://i.ibb.co/GfRY4XgL/agamtv.jpg",
+      "category": 0,
       "language": 0,
       "is_hd": false
     }
