@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -18670,7 +18670,7 @@
       "id": "VaanamTV",
       "name": "Vaanam TV",
       "url": "https://lanka.vaanam24.com:3712/hybrid/play.m3u8",
-      "logo_url": "",
+      "logo_url": "https://yettelevision.com/assets/images/logo/channel_11897.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -19022,6 +19022,105 @@
       "name": "TV2 (1080p)",
       "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
       "logo_url": "https://i.imgur.com/LGEdeyJ.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CDNDeportes.do@SD",
+      "name": "CDN Deportes (720p) [Not 24/7]",
+      "url": "https://hls.tvabierta.net/hls/036.m3u8",
+      "logo_url": "https://i.imgur.com/yU5LqTL.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NudgeSportsChannel.ph@HD",
+      "name": "Nudge Sports Channel [Not 24/7]",
+      "url": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/TW0hapZ.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "VinhLongTV4.vn@SD",
+      "name": "Vinh Long TV 4 (720p)",
+      "url": "https://dethich.pw/thvl4/index.m3u8",
+      "logo_url": "https://i.imgur.com/ARhIkvR.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GikTVMX.mx@SD",
+      "name": "GikTVMX (720p)",
+      "url": "https://pistream.ddns.net/hls/stream.m3u8",
+      "logo_url": "https://i.imgur.com/Gwz78jZ.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "STomSings.us@HD",
+      "name": "S Tom Sings (1080p)",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8",
+      "logo_url": "https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ThulirTV",
+      "name": "Thulir TV",
+      "url": "https://live.apcloud.in/thulirtv/thulirtv/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/S6MD35-0HPGHtJhAPTP5sFJZcsgH_WvCxjq53OruWKcPpDqg9pqffK0BHzIdbf15ksSWucKQBlIFQ1nVgzwFDc4",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "LikeTV",
+      "name": "Like TV",
+      "url": "https://stream.apcloud.in/liketv/liketvhd/index.m3u8",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/LikeTV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "LeafTV",
+      "name": "Leaf TV",
+      "url": "https://stream.apcloud.in/leaftv/leaftvhd/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ChenTV",
+      "name": "Chen TV",
+      "url": "https://stream.apcloud.in/chentv/chentvhd/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CCTV",
+      "name": "CC TV",
+      "url": "https://stream.onecloudlive.in/cctv/cctvhd/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "MoviesHD",
+      "name": "Movies HD",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/T7mQx9LpV2Nc8HdRw5Ka.m3u8",
+      "logo_url": "https://yettelevision.com/assets/images/logo/channel_11881.png",
       "category": 0,
       "language": 0,
       "is_hd": true
