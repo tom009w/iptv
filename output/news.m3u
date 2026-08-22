@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="News",4TV News (576p)
 https://cdn-4.pishow.tv/live/1007/master.m3u8
+#EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News",6 TV Telugu (576p)
+https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png" group-title="News",10 TV (720p)
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="22ScopeNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" group-title="News",22Scope News (1080p)
@@ -117,8 +119,8 @@ https://cdn-1.pishow.tv/live/280/master.m3u8
 https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HORNBILL/images/LOGO_HD/image.png" group-title="News",Hornbill TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
-#EXTINF:-1 tvg-id="IBC24.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png" group-title="News",IBC 24 (720p)
-https://cdn-3.pishow.tv/live/220/master.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png" group-title="News",IBC 24 (576p)
+https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
 #EXTINF:-1 tvg-id="Ind24.in@SD" tvg-logo="https://i.imgur.com/exRpVmL.png" group-title="News",Ind 24 (576p)
 https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in@SD" tvg-logo="https://i.imgur.com/hBkTmf9.png" group-title="News",India Ahead (576p)
@@ -135,12 +137,16 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV_SPEED_NEWS/images/LOGO_HD/image.png" group-title="News",India TV Speed News (1080p)
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
+#EXTINF:-1 tvg-id="IndiaVoice.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Voice.png" group-title="News",India Voice (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in@SD" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="Movies;News",Indywood TV (720p)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="INews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png" group-title="News",INews (720p)
 https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="News",INH 24x7 (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
+#EXTINF:-1 tvg-id="JaiMaharashtra.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="News",Jai Maharashtra (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143221_ld_h15_aa.png?lock=720x540" group-title="News",Janam TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
 #EXTINF:-1 tvg-id="JantaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JANTA_TV/images/LOGO_HD/image.png" group-title="News",Janta TV (1080p)
@@ -191,8 +197,8 @@ https://livestream.jswk.online/mhonenews/live/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
 #EXTINF:-1 tvg-id="MKNMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=720x540" group-title="News",MKN Marathi (576p)
 https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
-#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="News",Moon TV
-https://cdn-4.pishow.tv/live/1121/master.m3u8
+#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="News",Moon TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 #EXTINF:-1 tvg-id="NagalandTV.in@SD" tvg-logo="https://i.imgur.com/EBEIpPo.png" group-title="News",Nagaland TV (576p)
 https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png" group-title="News",NDTV 24x7 (720p)
@@ -208,7 +214,7 @@ https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 #EXTINF:-1 tvg-id="News1India.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png" group-title="News",News 1 India (576p)
 https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
 #EXTINF:-1 tvg-id="News1st.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143587_ld_h15_aa.png?lock=720x540" group-title="News",News 1st (576p)
-https://cdn-3.pishow.tv/live/268/master.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="News",News 7 Tamil (576p)
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News9.png" group-title="News",News9Live (1080p)

@@ -7,6 +7,8 @@ https://cdn-6.pishow.tv/live/1243/master.m3u8
 http://149.71.34.166:8002/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (576p)
 http://149.71.34.166:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="EpicKids.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" group-title="Kids",Epic Kids Digital (1080p)
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" group-title="Kids",Nick HD+ (1080p)
@@ -85,8 +87,8 @@ https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@Spanish" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst Spanish (720p)
 http://168.228.44.241:9997/play/a07u/index.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids",BabyTV Latin America (720p)
-http://138.121.15.230:9002/BABY-TV/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids",BabyTV Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@Turkiye" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids",BabyTV Turkiye (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz@HD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kids",Balapan HD (1080p)
@@ -241,6 +243,8 @@ https://dash3.antik.sk/live/duck_tv/index.m3u8
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Kids",DumDum (720p)
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="DurontoTV.bd@SD" tvg-logo="https://i.imgur.com/gXsddRK.png" group-title="Kids",Duronto TV (720p)
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 #EXTINF:-1 tvg-id="EBSKids.kr@SD" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EKids.bg@SD" tvg-logo="" group-title="Kids",EKids (576p)
@@ -251,8 +255,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek Fan (1080p)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="EpicKids.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" group-title="Kids",Epic Kids Digital (1080p)
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="ETCTV.cl@SD" tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Animation",ETC TV (1080p)
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee@SD" tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="Culture;Kids",ETV2 (720p)
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="Eureka.co@SD" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Kids",Eureka (1080p) [Geo-blocked]
@@ -263,6 +271,8 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-id="FilmRiseAnime.us@SD" tvg-logo="https://i.imgur.com/3wqeGXM.png" group-title="Animation",FilmRise Anime (720p)
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="FMHKids.us@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Kids",FMH Kids (1080p)
+https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us@SD" tvg-logo="https://i.imgur.com/deeQqYZ.png" group-title="Kids",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="France4.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="Kids",France 4
@@ -441,8 +451,6 @@ https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" group-title="Kids",Nick HD+ (1080p)
 http://103.72.101.252:8080/live/1226.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr Asia (1080p)
-https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.cz@SD" tvg-logo="https://i.imgur.com/KT4tdQs.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="NickJr.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nick Jr.
@@ -451,6 +459,8 @@ https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
 http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. (1080p)
 https://sra72yz.s.gy/NICK_JR_US.m3u8
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. Asia (720p)
+http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="Kids",Nick Jr. Club (720p)
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="Kids",Nick Jr. Club (720p)
