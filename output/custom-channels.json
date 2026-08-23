@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -19340,6 +19340,69 @@
       "category": 0,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "ZeeTamil.in@HD",
+      "name": "Zee Tamil HD (720p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "EpicBharat.in@Digital",
+      "name": "Epic Bharat Digital (1080p)",
+      "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "MRTVSports.mm@SD",
+      "name": "MRTV Sports [Not 24/7]",
+      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+      "logo_url": "https://i.imgur.com/cFTR4kC.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DDTamil.in@HD",
+      "name": "DD Tamil HD (1080p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "StarVijay.in@UK",
+      "name": "Star Vijay (396p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/dZtJHAe.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KanishqTV",
+      "name": "Kanishq TV",
+      "url": "https://app.ashokadigital.net/app/5926fcd7/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1787328303_2bce5445-aaa6-4982-988a-af44e1fccea4-Photoroom.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KhilaTV",
+      "name": "Khila TV",
+      "url": "https://gun.phoenixcreations.online/khilatv/khilatv/playlist.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/MkFJm5dx2JffnLoxm6H3pa0mF1DnzghVl4fGg4944KOn35vad3rhgGmaMJrxLCvkdAsUVBtjv71i2VdfvZzJ",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
