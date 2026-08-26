@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -17482,7 +17482,7 @@
       "id": "RSTV",
       "name": "RS TV",
       "url": "https://rstv.stream.onecloudlive.in/rstv/rstvhd/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_0837472952130911636800409.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -19445,6 +19445,69 @@
       "name": "Aadhavan Tamil TV [TamilStream]",
       "url": "https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8",
       "logo_url": "https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "YETTV.in@HD",
+      "name": "YET TV (720p)",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8",
+      "logo_url": "https://yettelevision.com/assets/images/logo/channel_1.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "YETMax.in@HD",
+      "name": "YET Max (720p)",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
+      "logo_url": "https://yettelevision.com/assets/images/logo/channel_11847.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "HosannaTV.in@Tamil",
+      "name": "Hosanna TV",
+      "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/VYorU1L.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "VajraTV@TACTV",
+      "name": "Vajra TV (TACTV)",
+      "url": "https://mmtv.stream.onecloudlive.in/mmtv/vajratvtac/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1765194315_203%20VAJRA%20NEW%20LOGO%202.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "EyeTVMadurai",
+      "name": "Eye TV Madurai",
+      "url": "https://srv-i.maduraiiptv.in/eyetv/live/index.m3u8",
+      "logo_url": "https://api.maduraiiptv.in/uploads/channel/logos/1787553796.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "HosannaTV.in@Global",
+      "name": "Hosanna TV Global",
+      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
+      "logo_url": "https://i.imgur.com/VYorU1L.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "HosannaTV.in@Hindi",
+      "name": "Hosanna TV Hindi",
+      "url": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8",
+      "logo_url": "https://i.imgur.com/VYorU1L.png",
       "category": 0,
       "language": 0,
       "is_hd": false
