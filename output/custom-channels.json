@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -19616,6 +19616,42 @@
       "name": "Sharnam TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8",
       "logo_url": "https://papaji.freetvindia.com/media/channels/SarnamTV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PocketFilms.in@SD",
+      "name": "Pocket Films",
+      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AajKiKhabar.in@SD",
+      "name": "Aaj Ki Khabar (1080p)",
+      "url": "https://stream.ottlive.co.in/aajkikhabar/index.m3u8",
+      "logo_url": "https://m.media-amazon.com/images/I/71q8sOMPwHL.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PalaarTV",
+      "name": "Palaar TV",
+      "url": "https://live.onecloudlive.in/palaartv/palaartv/index.m3u8?token=github.com/amazeyourself",
+      "logo_url": "https://www.infinitylinks.org/uploads/pixels/px_1784008914_e042b3a86ecf.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NilaTVRanipet",
+      "name": "Nila TV Ranipet",
+      "url": "https://live.onecloudlive.in/palaartv/nilatv/index.m3u8?token=github.com/amazeyourself",
+      "logo_url": "https://www.infinitylinks.org/uploads/pixels/px_1784008431_137fbda7e94d.png",
       "category": 0,
       "language": 0,
       "is_hd": false
