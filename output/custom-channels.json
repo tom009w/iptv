@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -19725,6 +19725,42 @@
       "url": "https://joshuatv-hs1.tamilstream.in/joshuatv/joshuatv/playlist.m3u8",
       "logo_url": "https://livetv.ashokadigital.net/upload/logo/1788015723_IMG_20260829_202503_341.png",
       "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DhoolTV.in@SD",
+      "name": "Dhool TV (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8",
+      "logo_url": "https://i.ibb.co/Rk78p2LB/dhooltv.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ETVBeats.in@HD",
+      "name": "ETV Beats (1080p)",
+      "url": "https://jmp2.uk/stvp-IN4900002RV",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ETVMusic.in@SD",
+      "name": "ETV Music (1080p)",
+      "url": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVMusic12.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GoldminesBollywood.in@SD",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
+      "logo_url": "https://i.imgur.com/6mNQ9mM.png",
+      "category": 6,
       "language": 0,
       "is_hd": false
     }
