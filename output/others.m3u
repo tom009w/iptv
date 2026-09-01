@@ -5,8 +5,6 @@ https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="Aastha.in@HD" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Religious",Aastha (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
-#EXTINF:-1 tvg-id="Aastha.in@SD" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Religious",Aastha (720p)
-http://103.213.31.109:90/AasthaSD/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha Bhajan (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AasthaGujarati.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Religious",Aastha Gujarati (576p)
@@ -15,6 +13,8 @@ https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaPrime1.in@SD" tvg-logo="https://i.imgur.com/LyWSMJS.png" group-title="Religious",Aastha Prime 1 (720p)
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
+#EXTINF:-1 tvg-id="Aastha.in@SD" tvg-logo="https://i.imgur.com/IqgrV92.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",Aastha SD (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AasthaTamil.in@SD" tvg-logo="https://i.imgur.com/YQK9ewf.png" group-title="Religious",Aastha Tamil (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" group-title="Religious",Aastha Telugu (480p)
@@ -29,10 +29,8 @@ https://live.legitpro.co.in/anandtv/index.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AradanaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="Religious",Aradana TV (576p)
 https://cdn-1.pishow.tv/live/961/master.m3u8
-#EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="Religious",Arputhar Yesu TV (720p)
-https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
-#EXTINF:-1 tvg-id="AruljothiTV.in@SD" tvg-logo="https://i.imgur.com/BmQ0r5S.png" group-title="Religious",Aruljothi TV (576p)
-https://jothi.inet.moe/jothitv/index.m3u8
+#EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="Religious",Arputhar Yesu TV (576p)
+https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL/images/LOGO_HD/image.png" group-title="Undefined",Aryan TV National (576p)
 https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="Religious",Awakening TV (576p)
@@ -147,6 +145,8 @@ https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png" group-title="Lifestyle",ETV Life (480p)
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
+#EXTINF:-1 tvg-id="Fast1.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" group-title="Undefined",Fast1 (576p)
+https://cdn-6.pishow.tv/live/10008/master.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in@SD" tvg-logo="https://i.imgur.com/c4ItNkB.png" group-title="Religious",Fateh TV (1080p) [Not 24/7]
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Cooking;Lifestyle",Food Food (576p)
@@ -243,10 +243,6 @@ https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-id="NandighoshaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="General",Nandighosha TV (576p)
 https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic HD (576p)
-http://149.71.34.166:8002/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild HD (1080p)
-http://149.71.34.166:8002/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="Lifestyle",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png" group-title="Business",NDTV Profit (1080p)
