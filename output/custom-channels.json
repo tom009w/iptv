@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -19799,6 +19799,42 @@
       "category": 8,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "QTV.in@SD",
+      "name": "Q TV (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8",
+      "logo_url": "https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Bharat24.in@SD",
+      "name": "Bharat24 (576p)",
+      "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TimesNowNavbharat.in@HD",
+      "name": "Times Now Navbharat HD (1080p)",
+      "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DDBharati.in@SD",
+      "name": "DD Bharati (720p)",
+      "url": "https://cdn-1.pishow.tv/live/10/master.m3u8",
+      "logo_url": "https://i.imgur.com/4tfUIEo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
