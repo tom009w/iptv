@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -19976,6 +19976,87 @@
       "name": "Gopuram TV",
       "url": "https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8",
       "logo_url": "https://api.maduraiiptv.in/uploads/channel/logos/1788507469.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SonyAath.in@SD",
+      "name": "Sony Aath (1080p)",
+      "url": "https://cloudplay-sonyliv.pages.dev/aath.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonyMax.in@SD",
+      "name": "Sony Max (1080p)",
+      "url": "https://cloudplay-sonyliv.pages.dev/max.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonyMax2.in@SD",
+      "name": "Sony Max 2 (1080p)",
+      "url": "https://cloudplay-sonyliv.pages.dev/max2.m3u8",
+      "logo_url": "https://i.imgur.com/gqUYk6C.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonyMax.in@HD",
+      "name": "Sony Max HD (1080p)",
+      "url": "https://cloudplay-sonyliv.pages.dev/maxhd.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonyPal.in@SD",
+      "name": "Sony Pal (1080p)",
+      "url": "https://cloudplay-sonyliv.pages.dev/pal.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonySAB.in@HD",
+      "name": "Sony SAB HD (1080p)",
+      "url": "https://cloudplay-sonyliv.pages.dev/sabhd.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonySportsTen5.in@SD",
+      "name": "Sony Sports Ten 5 (1080p)",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonySportsTen5.in@HD",
+      "name": "Sony Sports Ten 5 HD (1080p)",
+      "url": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "IsaiAruvi.in@SD",
+      "name": "Isai Aruvi (396p)",
+      "url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png",
       "category": 0,
       "language": 0,
       "is_hd": false
