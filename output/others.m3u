@@ -219,6 +219,8 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 https://cdn-3.pishow.tv/live/473/master.m3u8
 #EXTINF:-1 tvg-id="Mayyazhi.in@SD" tvg-logo="https://i.imgur.com/E3WYWF5.jpg" group-title="General",Mayyazhi (720p) [Not 24/7]
 http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MeiAlaiTV.in@SD" tvg-logo="https://www.meialai.in/assets/meialai-DBaBUZTH.png" group-title="General",Mei Alai TV (576p)
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-id="MercyTV.in@SD" tvg-logo="https://i.imgur.com/klNH4tV.png" group-title="Religious",Mercy TV (1080p)
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Metro_TV.png" group-title="General",Metro TV (1080p)
