@@ -9949,7 +9949,7 @@
       "id": "KRNTV",
       "name": "KRN TV",
       "url": "https://stream.onecloudlive.in/krntv/krntvhd/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KRNTV.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -11533,7 +11533,7 @@
       "id": "MRTV",
       "name": "MR TV",
       "url": "https://live.apcloud.in/mrtv/mrtvhd/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MRTV.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -19093,7 +19093,7 @@
       "id": "LeafTV",
       "name": "Leaf TV",
       "url": "https://stream.apcloud.in/leaftv/leaftvhd/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://yt3.googleusercontent.com/EBS8XCbfWikNCSzG5VhLiRI2A8JUiy5Gz70B-BFoJCV0fktbkC5lBUUztWeQBtb9ukoBbNzs3A",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -20101,7 +20101,52 @@
       "id": "AalayaTV",
       "name": "Aalaya TV",
       "url": "https://rtmp.applelive.in/aalayatv/aalayatv/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://api.nellaiiptv.com/public/uploads/channel/logos/1788356009.webp",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ColorsMarathi.in@HD",
+      "name": "Colors Marathi HD (720p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SkySportsCricket.ie@SD",
+      "name": "Sky Sports Cricket (1080p)",
+      "url": "https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8",
+      "logo_url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SkySportsGolf.ie@HD",
+      "name": "Sky Sports Golf HD (1080p)",
+      "url": "https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8",
+      "logo_url": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FixFoxi.de@SD",
+      "name": "Fix & Foxi (540p)",
+      "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KandanTV",
+      "name": "Kandan TV",
+      "url": "https://stream.onecloudlive.in/knrtv/knrtvhd/index.m3u8",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/KNRMax.png",
       "category": 0,
       "language": 0,
       "is_hd": false
