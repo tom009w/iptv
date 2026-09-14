@@ -715,7 +715,7 @@
       "id": "ManoranjanPrime.in@SD",
       "name": "Manoranjan Prime",
       "url": "https://cdn-4.pishow.tv/live/1474/master.m3u8",
-      "logo_url": "",
+      "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrGNUi4TMw8UslbIJF1ja-NrA1Ps656h9cxrj6aTfl3Cm-_C2gxtBBAKz-fLdPk7rJ0YrXfNvcQaBSDFTUdPgSYt8sBA0xn4aSMPnl-J2hiKa7P3Ybjd3BlE3XjoAJ0d7HNvhy8mZFDbf1JfAdMVBpdnPBuim3y3x0zMw1D3ryOw3NCoOsPA5fMMplPbU/s500/manoranjan-prime-tv-schedule-on-dd-freedish.jpg",
       "category": 5,
       "language": 0,
       "is_hd": false
@@ -11587,7 +11587,7 @@
       "id": "DTV2",
       "name": "D TV",
       "url": "https://view.rcserver.in/tmp_hls33/dtv/index.m3u8?token=YW1hemV5",
-      "logo_url": "",
+      "logo_url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DTV2.png",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -20155,7 +20155,7 @@
       "id": "AdhiralaiTV",
       "name": "Adhiralai TV",
       "url": "https://hlsstream.olidigital.in/adhiralaitv/adhiralaitv/index.m3u8",
-      "logo_url": "",
+      "logo_url": "https://play-lh.googleusercontent.com/c9Qa1KDUJvV8VLPIzWWo_xR7ojV-r5KixK9KTmM4N_J30HxZHAMxg70ti08YCLEnKxDtpiZ7rULHicQB368V",
       "category": 0,
       "language": 0,
       "is_hd": false
@@ -20237,6 +20237,33 @@
       "name": "Jeyam Plus Coimbatore",
       "url": "https://ipcloud.live/mmtv/jeyamplus/index.m3u8",
       "logo_url": "https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "YES.mv@SD",
+      "name": "YES",
+      "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
+      "logo_url": "https://i.imgur.com/HARIGQl.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NickJrLatinAmerica.us@Panregional",
+      "name": "Nick Jr. Latin America (720p)",
+      "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
+      "logo_url": "https://i.imgur.com/KT4tdQs.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "YugamTV",
+      "name": "Yugam TV",
+      "url": "https://3.proxy.nellaiiptv.com/DINESH/YUGAM/index.m3u8?token=YAAL",
+      "logo_url": "https://yt3.googleusercontent.com/ZLOoAH5woHnjeXbkIl5ql78CDGrZ_5UNSth-7yG4gbFhj-Gp4iGtiWPixt05t_rTQI7yVgkiCUg",
       "category": 0,
       "language": 0,
       "is_hd": false
