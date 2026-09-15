@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -20267,6 +20267,96 @@
       "category": 0,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "ColorsSuper.in@SD",
+      "name": "Colors Super (396p)",
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NHTamilGold.in@HD",
+      "name": "NH Tamil Gold (1080p)",
+      "url": "https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf",
+      "logo_url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AsianNews.in@SD",
+      "name": "Asian News (1080p)",
+      "url": "https://stream.ottlive.co.in/asiannews/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TheVoiceTV.in@SD",
+      "name": "The Voice TV (1080p)",
+      "url": "https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/thevoicetv.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TopNewsMarathi.in@SD",
+      "name": "Top News Marathi (1080p)",
+      "url": "https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/topnewsmarathi.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TV27News.in@SD",
+      "name": "TV27 News (360p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/TV27_News.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TV30India.in@SD",
+      "name": "TV30 India (1080p)",
+      "url": "https://stream.tv30bharat.com/hls/shree/bhattji.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TV45.in@SD",
+      "name": "TV45 (1080p)",
+      "url": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/TV45.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "VRLive.in@SD",
+      "name": "VR Live (720p)",
+      "url": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/VRLive.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "UBangla.in@SD",
+      "name": "U Bangla (1080p)",
+      "url": "https://stream.ottlive.co.in/ubangla/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/U_Bangla.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
