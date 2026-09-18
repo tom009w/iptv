@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -20354,6 +20354,402 @@
       "name": "U Bangla (1080p)",
       "url": "https://stream.ottlive.co.in/ubangla/index.m3u8",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/U_Bangla.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FriendsTV.in@SD",
+      "name": "Friends TV (1080p)",
+      "url": "https://server.playontv.in/friendstv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "JayaPlus.in@SD",
+      "name": "Jaya Plus (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BalleBalle.in@HD",
+      "name": "Balle Balle HD (720p)",
+      "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BoogleBollywood.in@SD",
+      "name": "Boogle Bollywood (720p)",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NHBollyRaga.in@HD",
+      "name": "NH BollyRaga (1080p)",
+      "url": "https://jmp2.uk/stvp-IN460001373",
+      "logo_url": "https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DDSports.in@HD",
+      "name": "DD Sports (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SportPlusQazaqstan.kz@SD",
+      "name": "Sport+ Qazaqstan (1080p)",
+      "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv",
+      "logo_url": "https://i.imgur.com/vIV7x6n.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TennisChannel2.us@SD",
+      "name": "Tennis Channel 2 (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8",
+      "logo_url": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Bollygold.in@HD",
+      "name": "Bollygold (1080p)",
+      "url": "https://jmp2.uk/stvp-IN4000600Q",
+      "logo_url": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NHBollyFlix.in@HD",
+      "name": "NH BollyFlix (1080p)",
+      "url": "https://jmp2.uk/stvp-IN46000140Q",
+      "logo_url": "https://i.ibb.co/yF9MPTDK/blyflx.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NHBollyGold.in@HD",
+      "name": "NH BollyGold (1080p)",
+      "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+      "logo_url": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "4SiDESTV.in@SD",
+      "name": "4 SiDES TV (1080p)",
+      "url": "https://stream.ottlive.co.in/4sidestv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "9PlusNews.in@SD",
+      "name": "9 Plus News (1080p)",
+      "url": "https://stream.ottlive.co.in/9plusnews/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/9plusnews.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AkhonKolkata.in@SD",
+      "name": "Akhon Kolkata (478p)",
+      "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ekhonkolkata.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BadaKhabar.in@SD",
+      "name": "Bada Khabar (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
+      "logo_url": "https://i.imgur.com/XiwygDJ.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "HeadlinesTripura.in@SD",
+      "name": "Headlines Tripura (720p)",
+      "url": "https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Headlines_Tripura.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Kadak.in@SD",
+      "name": "Kadak (1080p)",
+      "url": "https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Kadak.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "KanakNews.in@SD",
+      "name": "Kanak News (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KANAK_NEWS/images/LOGO_HD/image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KBCNews.in@SD",
+      "name": "KBC News (1080p)",
+      "url": "https://stream.ottlive.co.in/kbcnews/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "KBPTimes.in@SD",
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/KBPTimes.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NationNews.in@SD",
+      "name": "Nation News (720p)",
+      "url": "https://server.playontv.in/nationnews/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsCapitalGujarat.in@SD",
+      "name": "News Capital Gujarat (1080p)",
+      "url": "https://newscapital.com/hls/main4/stream.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapital_Gujarat.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsMarathi24x7.in@SD",
+      "name": "News Marathi 24x7 (720p)",
+      "url": "https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/cb84d7f7e19bcbfb9b6d664e7fb2adee.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsNation81.in@SD",
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsStateMPCHG.in@SD",
+      "name": "News State MP & CHG (1080p)",
+      "url": "https://jmp2.uk/stvp-IN4000012ML",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_STATE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsStatePunjabHaryanaHimachal.in@SD",
+      "name": "News State Punjab Haryana Himachal (1080p)",
+      "url": "https://jmp2.uk/stvp-IN300083R1",
+      "logo_url": "",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsStateUPUK.in@SD",
+      "name": "News State UP & UK (1080p)",
+      "url": "https://jmp2.uk/stvp-IN3000846P",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_STATE_UP_UK/images/LOGO_HD/image.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NSC9News.in@SD",
+      "name": "NSC9 News (1080p)",
+      "url": "https://legitpro.co.in/nsc9/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nsc9.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Pradesh24Gujarati.in@SD",
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "RaatdinBangla.in@SD",
+      "name": "Raatdin Bangla (720p)",
+      "url": "https://server.playontv.in/raatdinbangla/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Detskiy.ru@SD",
+      "name": "Detskiy (576p)",
+      "url": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8",
+      "logo_url": "https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PLUSPLUS.ua@HD",
+      "name": "PLUSPLUS HD (1080p) [Not 24/7]",
+      "url": "https://iptv.prosto.tv/ch066/index.m3u8",
+      "logo_url": "https://i.imgur.com/9bPhStm.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TraLaLaTV.ro@SD",
+      "name": "TraLaLa TV",
+      "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+      "logo_url": "https://i.imgur.com/xJBMnjy.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BhagyamTV.in@SD",
+      "name": "Bhagyam TV (1080p)",
+      "url": "https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "MahimaiTV.in@SD",
+      "name": "Mahimai TV (576p)",
+      "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
+      "logo_url": "https://mahimaitv.com/images/mahimaitamil.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ThendralTV.in@SD",
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "logo_url": "https://i.imgur.com/kQK80gB.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AnandWariTV.in@SD",
+      "name": "Anand Wari TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
+      "logo_url": "https://papaji.freetvindia.com/media/channels/anandvari.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BhakthiSiri.in@SD",
+      "name": "Bhakthi Siri (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/f6da6ddbbd4e157e54904f34196118e7.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KnockBhakti.in@SD",
+      "name": "Knock Bhakti (1080p)",
+      "url": "https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/KnockBhakti.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsCapitalMarket.in@SD",
+      "name": "News Capital Market (1080p)",
+      "url": "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PowervisionTV.in@SD",
+      "name": "Powervision TV (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PrarthanaBhawanTV.in@SD",
+      "name": "Prarthana Bhawan TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SarvDharmSangam.in@SD",
+      "name": "Sarv Dharm Sangam (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/cacbd93588fb35c8a65c86fcf4310dc0.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SwastikTV.in@SD",
+      "name": "Swastik TV (720p)",
+      "url": "https://server.playontv.in/swastiktv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png",
       "category": 0,
       "language": 0,
       "is_hd": true
