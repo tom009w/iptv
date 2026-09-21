@@ -7331,7 +7331,7 @@
       "name": "Sirippoli TV (576p)",
       "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
       "logo_url": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",
-      "category": 0,
+      "category": 12,
       "language": 0,
       "is_hd": false
     },
@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -20840,6 +20840,51 @@
       "name": "Kalaignar TV (396p)",
       "url": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
       "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SangeetBhojpuri.in@SD",
+      "name": "Sangeet Bhojpuri (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ShemarooFilmiGaane.in@HD",
+      "name": "Shemaroo Filmi Gaane (1080p)",
+      "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SongdewTV.in@SD",
+      "name": "Songdew TV (396p)",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SCorbyTV.us@HD",
+      "name": "S Corby TV (480p)",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8",
+      "logo_url": "https://i.postimg.cc/432q9g12/In-Shot-20260908-063951605.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SKPop.us@HD",
+      "name": "S KPop! (480p)",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
+      "logo_url": "https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png",
       "category": 0,
       "language": 0,
       "is_hd": false
