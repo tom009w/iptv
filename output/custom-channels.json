@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -21273,6 +21273,105 @@
       "url": "https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/NickSchweiz.png/960px-NickSchweiz.png",
       "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "VBhakthi",
+      "name": "V Bhakthi",
+      "url": "https://siii.mystreams.in/live/vbhakthi/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1789645396_file_00709.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ArchanaTV",
+      "name": "Archana TV",
+      "url": "https://live-stream.in/archanatv/archanatv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1790181143_ARSHNA%20TV%201.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TTamilTV",
+      "name": "T Tamil TV",
+      "url": "https://app.ashokadigital.net/app/66a49d84/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DharsanTV2",
+      "name": "Dharsan TV",
+      "url": "https://cloudstream4k.com/dharshanhd/live/playlist.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1791256883_WhatsApp%20Image%202026-10-06%20at%208.42.31%20AM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AmmaChannel",
+      "name": "Amma Channel",
+      "url": "https://app.ashokadigital.net/app/341dfe1b/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ArasanTV",
+      "name": "Arasan TV",
+      "url": "https://app.ashokadigital.net/app/d7dbeab6/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ACNCinema",
+      "name": "ACN Cinema",
+      "url": "https://app.ashokadigital.net/app/ea6afbb7/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PunithanTV",
+      "name": "Punithan TV",
+      "url": "https://live-stream.in/punithantv/punithantv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1790755530_WhatsApp%20Image%202026-09-26%20at%201.30.06%20PM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KirubaiTVMDU",
+      "name": "Kirubai TV Madurai",
+      "url": "https://live.sscloud7.in/live/kirubaitv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp%20Image%202026-07-30%20at%205.02.41%20PM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KingdomTV",
+      "name": "Kingdom TV",
+      "url": "https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8",
+      "logo_url": "https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp%20Image%202026-07-30%20at%205.02.41%20PM.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KaliTV",
+      "name": "Kali TV",
+      "url": "https://stream.apcloud.in/SriVELAVANTVULTRAHD/srivelavantv/video.m3u8",
+      "logo_url": "",
+      "category": 0,
       "language": 0,
       "is_hd": false
     }
