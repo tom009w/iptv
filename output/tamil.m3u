@@ -17,6 +17,8 @@ https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_a
 https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="TAMIL",Angel TV Indonesia (720p)
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="TAMIL",Animal Planet (India) HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="TAMIL",Arputhar Yesu TV (576p)
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="TAMIL",Asia TV (720p)
@@ -25,6 +27,10 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 #EXTINF:-1 tvg-id="BhagyamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="TAMIL",Bhagyam TV (1080p)
 https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="TAMIL",Cartoon Network (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="TAMIL",Cartoon Network HD+ (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="TAMIL",Chithiram (576p)
 https://cdn.pishow.tv/ott/live/1243/master.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png" group-title="TAMIL",Colors Tamil HD (720p)
@@ -37,6 +43,8 @@ https://cdn.pishow.tv/ott/live/1737/master.m3u8
 https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 #EXTINF:-1 tvg-id="DhoolTV.in@SD" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" group-title="TAMIL",Dhool TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="TAMIL",Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="TAMIL",Disney Channel (India) HD (1080p)
 http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="TAMIL",Disney Junior (India) (576p)
@@ -181,8 +189,6 @@ http://103.165.93.31:8095/sonyYay/index.m3u8
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="TAMIL",Star Movies (India) HD (1080p)
 http://103.185.24.134:3001/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="TAMIL",Star Movies Select HD (1080p)
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="TAMIL",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="TAMIL",Star Sports 2 HD (720p)
@@ -247,8 +253,8 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 #EXTINF:-1 tvg-id="YETTV.in@HD" tvg-logo="https://yettelevision.com/assets/images/logo/channel_1.png" group-title="TAMIL",YET TV (720p)
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="TAMIL",Zee Tamil HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="TAMIL",Zee Tamil HD (1080p)
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" group-title="TAMIL",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="3201" tvg-name-ta="சனா டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/logos/SanaTV.svg" tvg-region="Panruti;Cuddalore" group-title="TAMIL",Sana TV
@@ -1760,7 +1766,7 @@ http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 #EXTINF:-1 tvg-id="RoyalTVNellai" tvg-name-ta="ராயல் டிவி (நெல்லை)" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="TAMIL",Royal TV Nellai
 http://http://srvvii.nellaiiptv.com:8033/iptv.com:8033/app-restream/2fx62e-royaltv/index.m3u8
 #EXTINF:-1 tvg-id="MTNTV" tvg-name-ta="MTN டிவி" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1785126728_LOGO.png" tvg-region="Kanyakumari" group-title="TAMIL",MTN TV
-https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
+https://applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-id="SwastikTV" tvg-name-ta="சுவஸ்திக் டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="TAMIL",Swastik TV
 http://srvvii.nellaiiptv.com:8033/app-restream/rhk94a-swasthiktv/index.m3u8
 #EXTINF:-1 tvg-id="GurudevanTV" tvg-name-ta="குரு-தேவன் டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" tvg-region="Unknown" group-title="TAMIL",Gurudevan TV
@@ -1854,4 +1860,10 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-id="KingdomTV" tvg-name-ta="கிருபை டிவி (மதுரை)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp%20Image%202026-07-30%20at%205.02.41%20PM.jpeg" tvg-region="Unknown" group-title="TAMIL",Kingdom TV
 https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
 #EXTINF:-1 tvg-id="KaliTV" tvg-name-ta="காளி டிவி" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Kali TV
-https://stream.apcloud.in/SriVELAVANTVULTRAHD/srivelavantv/video.m3u8
+https://stream.apcloud.in/SriVELAVANTVULTRAHD/srivelavantv/video.m3u8
+#EXTINF:-1 tvg-id="AyyapaTV" tvg-name-ta="அய்யப்பா டிவி" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791992700.webp" tvg-region="Unknown" group-title="TAMIL",Ayyapa TV
+https://srv-i.maduraiiptv.in/live/ayyappatv/index.m3u8
+#EXTINF:-1 tvg-id="DeiveegamTV" tvg-name-ta="தெய்வீகம் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790782567_Glossy%20Golden%20Tamil%20Temple%20Emblem.png" tvg-region="Unknown" group-title="TAMIL",Deiveegam TV
+https://live3.onecloudlive.in/deiveegam/deiveegamtv/index.m3u8
+#EXTINF:-1 tvg-id="AMNTVKarur" tvg-name-ta="AMN டிவி (கரூர்)" tvg-logo="https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png" tvg-region="Karur" group-title="TAMIL",AMN TV Karur
+https://live.onecloudlive.in/amn/amntv/index.m3u8

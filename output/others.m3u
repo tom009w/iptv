@@ -29,6 +29,8 @@ https://live.legitpro.co.in/anandtv/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV (720p)
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Documentary",Animal Planet (India) HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AradanaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="Religious",Aradana TV (576p)
 https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="Religious",Arputhar Yesu TV (576p)

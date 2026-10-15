@@ -57,8 +57,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/61
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png" group-title="ZEE",Zee Talkies (576p)
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="ZEE",Zee Tamil HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="ZEE",Zee Tamil HD (1080p)
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" group-title="ZEE",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="ZEE",Zee Telugu HD (720p)
@@ -125,8 +125,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="STAR",Star Movies (India) HD (1080p)
 http://103.185.24.134:3001/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="STAR",Star Movies Select HD (1080p)
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="STAR",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="STAR",Star Sports 1 (576p)
@@ -405,8 +403,8 @@ https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZeeMarathi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Marathi HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="Entertainment",Zee Tamil HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="Entertainment",Zee Tamil HD (1080p)
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Telugu HD (720p)
 https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee TV (576p)
@@ -603,10 +601,18 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 http://88.212.15.17/live/arena4/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.sk@SD" tvg-logo="https://i.imgur.com/2qf67zW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+#EXTINF:-1 tvg-id="ArenaSport1Premium.rs@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports",Arena Sport 1 Premium (Serbia) (360p)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
+#EXTINF:-1 tvg-id="ArenaSport1Premium.si@SD" tvg-logo="https://i.imgur.com/csv6YsL.png" group-title="Sports",Arena Sport 1 Premium (Slovenia)
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
 #EXTINF:-1 tvg-id="ArenaSport2.sk@SD" tvg-logo="https://i.imgur.com/Yq3Jf19.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" group-title="Sports",Arena Sport Premium M1
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
+#EXTINF:-1 tvg-id="ArenaSportPremiumM2.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png" group-title="Sports",Arena Sport Premium M2
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4
+#EXTINF:-1 tvg-id="ArenaSportPremiumM3.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png" group-title="Sports",Arena Sport Premium M3
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
 #EXTINF:-1 tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (720p)
 http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Sports",AS3 Sport TV (1080p)
@@ -715,6 +721,8 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn@SD" tvg-logo="https://i.imgur.com/Y1t8xkL.png" group-title="Sports",Deportes TVC (1080p)
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV (1080p)
+http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png" group-title="Sports",Digi Sport 2 HD (1080i)
 https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 #EXTINF:-1 tvg-id="DiviSport.ua@SD" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Sports",DiviSport (1080p)
@@ -1605,8 +1613,6 @@ http://103.185.24.134:3001/Star-Gold/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies (India) HD (1080p)
 http://103.185.24.134:3001/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + (720p)
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Movies",Suriyan TV (576p)
@@ -1719,6 +1725,8 @@ https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playl
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="CnewsBharat.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/C_News_Bharat.png" group-title="News",Cnews Bharat (720p)
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="CNNNews18.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540" group-title="News",CNN News 18 (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540" group-title="News",CTVN AKD Plus (1080p)
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-logo="https://i.imgur.com/k0WTQKi.png" group-title="News",CVR English (720p)
@@ -2141,8 +2149,14 @@ https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" group-title="Animation",Animax Asia India (1080p) [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="Animation;Kids",Cartoon Network (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Animation;Kids",Cartoon Network HD+ (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="Kids",Chithiram (576p)
 https://cdn.pishow.tv/ott/live/1243/master.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Channel (India) HD (1080p)
 http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney International HD (576p)
@@ -2243,6 +2257,8 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@Spanish" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst Spanish (1080p)
 http://168.196.127.137:6001/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk@UK" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids",BabyTV (1080p)
+http://57.128.231.171:8080/310/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids",BabyTV Latin America (1080p)
 http://38.44.109.41:8003/play/a0eh
 #EXTINF:-1 tvg-id="Balapan.kz@SD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kids",Balapan (576p)
@@ -2295,8 +2311,8 @@ http://185.37.150.46/Karusel/index.m3u8
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="Animation;Kids",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network (Italy) HD
-https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073
+#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="Animation;Kids",Cartoon Network (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network (United States) (720p)
 http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Animation;Kids",Cartoon Network Asia (720p)
@@ -2307,6 +2323,8 @@ http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
 http://57.128.231.171:8080/293/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network CEE Ukraine (576p)
 http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Animation;Kids",Cartoon Network HD+ (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlanticHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Animation;Kids",Cartoon Network Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network Latin America Brazil (720p) [Geo-blocked]
@@ -2321,6 +2339,10 @@ http://45.167.1.138:8000/play/a00w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Czechia" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kids",Cartoonito CEE Czechia
 http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kids",Cartoonito CEE Poland (1080p)
+http://57.128.231.171:8080/303/index.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito Latin America (1080p)
+http://45.173.12.70:8000/play/a0hh
 #EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Kids",CBeebies (Poland) (576p)
 http://92.114.85.87:8017/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="Kids",CCTV-14 HD (1080p)
@@ -2361,6 +2383,8 @@ https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1 tvg-id="DiosTeVeKids.hn@SD" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="Kids;Religious",Dios Te Ve Kids (720p)
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Kids",Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Kids",Discovery Kids Latin America (1080p)
 http://181.224.200.5:2277/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Kids",Discovery Kids Latin America Brazil (720p) [Geo-blocked]
@@ -2383,6 +2407,8 @@ https://s6.hopslan.com/disneyX/index.m3u8
 http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Kids",Disney Channel (Netherlands) (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DisneyChannel.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel (Poland) (1080p)
+http://57.128.231.171:8080/278/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel (Poland) HD (1080p)
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel (Portugal) (1080p)
@@ -2401,6 +2427,8 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Animation;Kids",Disney Channel Latin America South
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney International HD (576p)
 http://103.151.60.162:2122/play/a018/index.m3u8?hls
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Jr. (France) (1080p)
@@ -2455,8 +2483,10 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids",El Chavo TV (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek FAN (1080p)
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="EnerGeek.cl@HD" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Animation",EnerGeek (1080p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek FAN (720p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="EpicKids.in@Digital" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png" group-title="Kids",Epic Kids Digital (1080p)
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max TV
@@ -2682,7 +2712,7 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV CA
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="NickSchweiz.ch@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/NickSchweiz.png/960px-NickSchweiz.png" group-title="Kids",Nick Schweiz
-https://bin.webhookrelay.com/v1/webhooks/0351cd0b-b0d7-4836-8cc9-4d2280c7961c
+https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (Brazil) (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (Bulgaria) (576p)
@@ -2699,6 +2729,8 @@ https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Kids",Nickelodeon (India) (576p)
 http://103.185.24.134:3001/NICK/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon (Italy)
+https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Nickelodeon (Romania)
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="Kids",Nickelodeon (Russia) (576p)
@@ -2739,8 +2771,6 @@ https://x1colegal.com/hls/stream.m3u8
 https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons (Czech Republic)
 http://88.212.15.19/live/test_nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.fr@SD" tvg-logo="https://i.imgur.com/OWRUPA4.png" group-title="Kids",Nicktoons (France) (1080p)
-http://193.254.245.162/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons (Hungary)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Nicktoons.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Kids",Nicktoons (Romania)
@@ -3229,6 +3259,8 @@ https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_a
 https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="TAMIL",Angel TV Indonesia (720p)
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="TAMIL",Animal Planet (India) HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="TAMIL",Arputhar Yesu TV (576p)
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="TAMIL",Asia TV (720p)
@@ -3237,6 +3269,10 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 #EXTINF:-1 tvg-id="BhagyamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="TAMIL",Bhagyam TV (1080p)
 https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="TAMIL",Cartoon Network (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="TAMIL",Cartoon Network HD+ (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="TAMIL",Chithiram (576p)
 https://cdn.pishow.tv/ott/live/1243/master.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png" group-title="TAMIL",Colors Tamil HD (720p)
@@ -3249,6 +3285,8 @@ https://cdn.pishow.tv/ott/live/1737/master.m3u8
 https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 #EXTINF:-1 tvg-id="DhoolTV.in@SD" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" group-title="TAMIL",Dhool TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="TAMIL",Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="TAMIL",Disney Channel (India) HD (1080p)
 http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="TAMIL",Disney Junior (India) (576p)
@@ -3393,8 +3431,6 @@ http://103.165.93.31:8095/sonyYay/index.m3u8
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="TAMIL",Star Movies (India) HD (1080p)
 http://103.185.24.134:3001/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="TAMIL",Star Movies Select HD (1080p)
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="TAMIL",Star Sports 2 (576p)
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="TAMIL",Star Sports 2 HD (720p)
@@ -3459,8 +3495,8 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 #EXTINF:-1 tvg-id="YETTV.in@HD" tvg-logo="https://yettelevision.com/assets/images/logo/channel_1.png" group-title="TAMIL",YET TV (720p)
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="TAMIL",Zee Tamil HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="TAMIL",Zee Tamil HD (1080p)
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" group-title="TAMIL",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="3201" tvg-name-ta="சனா டிவி" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/logos/SanaTV.svg" tvg-region="Panruti;Cuddalore" group-title="TAMIL",Sana TV
@@ -4972,7 +5008,7 @@ http://103.186.231.25:8080/hls/mayiltv/index.m3u8
 #EXTINF:-1 tvg-id="RoyalTVNellai" tvg-name-ta="ராயல் டிவி (நெல்லை)" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="TAMIL",Royal TV Nellai
 http://http://srvvii.nellaiiptv.com:8033/iptv.com:8033/app-restream/2fx62e-royaltv/index.m3u8
 #EXTINF:-1 tvg-id="MTNTV" tvg-name-ta="MTN டிவி" tvg-logo="https://phoenixcreations.online/ott/jayamott/uploads/1785126728_LOGO.png" tvg-region="Kanyakumari" group-title="TAMIL",MTN TV
-https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
+https://applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-id="SwastikTV" tvg-name-ta="சுவஸ்திக் டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" tvg-region="Unknown" group-title="TAMIL",Swastik TV
 http://srvvii.nellaiiptv.com:8033/app-restream/rhk94a-swasthiktv/index.m3u8
 #EXTINF:-1 tvg-id="GurudevanTV" tvg-name-ta="குரு-தேவன் டிவி" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" tvg-region="Unknown" group-title="TAMIL",Gurudevan TV
@@ -5067,6 +5103,12 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
 #EXTINF:-1 tvg-id="KaliTV" tvg-name-ta="காளி டிவி" tvg-logo="" tvg-region="Unknown" group-title="TAMIL",Kali TV
 https://stream.apcloud.in/SriVELAVANTVULTRAHD/srivelavantv/video.m3u8
+#EXTINF:-1 tvg-id="AyyapaTV" tvg-name-ta="அய்யப்பா டிவி" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791992700.webp" tvg-region="Unknown" group-title="TAMIL",Ayyapa TV
+https://srv-i.maduraiiptv.in/live/ayyappatv/index.m3u8
+#EXTINF:-1 tvg-id="DeiveegamTV" tvg-name-ta="தெய்வீகம் டிவி" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790782567_Glossy%20Golden%20Tamil%20Temple%20Emblem.png" tvg-region="Unknown" group-title="TAMIL",Deiveegam TV
+https://live3.onecloudlive.in/deiveegam/deiveegamtv/index.m3u8
+#EXTINF:-1 tvg-id="AMNTVKarur" tvg-name-ta="AMN டிவி (கரூர்)" tvg-logo="https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png" tvg-region="Karur" group-title="TAMIL",AMN TV Karur
+https://live.onecloudlive.in/amn/amntv/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" group-title="TELUGU",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="TELUGU",6 TV Telugu (576p)
@@ -5089,6 +5131,10 @@ https://cdn.pishow.tv/ott/live/1059/master.m3u8
 https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 #EXTINF:-1 tvg-id="CalvaryTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calvary.png" group-title="TELUGU",Calvary TV (576p)
 https://cdn.pishow.tv/ott/live/963/master.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="TELUGU",Cartoon Network (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="TELUGU",Cartoon Network HD+ (720p)
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-logo="https://i.imgur.com/bCyW32I.png" group-title="TELUGU",CVR Health (576p)
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 #EXTINF:-1 tvg-id="CVRNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CVR_NEWS/images/LOGO_HD/LOGO_HD_image.png" group-title="TELUGU",CVR News (576p)
@@ -5101,6 +5147,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/in
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png" group-title="TELUGU",DD Yadagiri (576p)
 https://cdn.pishow.tv/ott/live/21/master.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in@SD" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="TELUGU",Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="TELUGU",Disney Channel (India) HD (1080p)
 http://66.102.126.10:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="TELUGU",Disney Junior (India) (576p)
@@ -5269,6 +5317,8 @@ https://live.legitpro.co.in/anandtv/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV (720p)
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Documentary",Animal Planet (India) HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AradanaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="Religious",Aradana TV (576p)
 https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="Religious",Arputhar Yesu TV (576p)
