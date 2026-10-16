@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -21455,6 +21455,69 @@
       "category": 0,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "DiscoveryChannel.in@SD",
+      "name": "Discovery Channel (India) (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Eurosport.in@SD",
+      "name": "Eurosport (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FoxSportsNews.au@SD",
+      "name": "Fox Sports News (1080p)",
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
+      "logo_url": "https://i.imgur.com/FhMQrJk.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AnimalPlanet.in@SD",
+      "name": "Animal Planet (India) (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DiscoveryScience.in@SD",
+      "name": "Discovery Science (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DiscoveryTurbo.in@SD",
+      "name": "Discovery Turbo (India) (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "InvestigationDiscovery.in@SD",
+      "name": "Investigation Discovery (India) (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
