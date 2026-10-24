@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -21941,6 +21941,213 @@
       "category": 0,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "ZeeTamil.in@SD",
+      "name": "Zee Tamil (576p) [Geo-blocked]",
+      "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AlrightTV.in@SD",
+      "name": "Alright! TV (1080p)",
+      "url": "https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CineJomjomat.in@SD",
+      "name": "Cine Jomjomat (1080p)",
+      "url": "https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "HindiHits.in@SD",
+      "name": "Hindi Hits (720p)",
+      "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PunjabiBeatsHD.in@HD",
+      "name": "Punjabi Beats HD (720p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "logo_url": "https://i.imgur.com/1Za9gNQ.jpg",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AndTV.in@SD",
+      "name": "&TV (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "B4UBhojpuri.in@Plus",
+      "name": "B4U Bhojpuri Plus (1080p)",
+      "url": "https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8",
+      "logo_url": "https://i.imgur.com/NwOQUDp.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "MahuaPlay.in@SD",
+      "name": "Mahua Play (1080p)",
+      "url": "https://cdn.ottlive.co.in/mahuaplay/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonarBangla.in@SD",
+      "name": "Sonar Bangla (360p)",
+      "url": "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://papaji.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ATNSamachar.in@SD",
+      "name": "ATN Samachar (1080p)",
+      "url": "https://newsliveindia.com:4433/atn/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ATN_Samachar.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BanglaJago.in@SD",
+      "name": "Bangla Jago (720p)",
+      "url": "https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Jago.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BharatAtoZ.in@SD",
+      "name": "Bharat AtoZ (720p)",
+      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_AtoZ.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BHIChannel.in@SD",
+      "name": "BHI Channel (720p)",
+      "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/BHI.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BSTV.in@SD",
+      "name": "BSTV (India) (720p)",
+      "url": "https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/BSTV.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GlobalIndia.in@SD",
+      "name": "Global India (720p)",
+      "url": "https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Global_India.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GlobeTV.in@SD",
+      "name": "Globe TV (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Globe_TV.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "MahuaKhabar.in@SD",
+      "name": "Mahua Khabar (1080p)",
+      "url": "https://cdn.ottlive.co.in/mahuakhabar/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/mahuakhabar.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PuthiyaThalaimuraiExpress.in@SD",
+      "name": "Puthiya Thalaimurai Express (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://www.lyngsat.com/logo/tv/pp/puthiya-thalaimurai-express-in.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GreenGoldTV.in@India",
+      "name": "Green Gold TV (1080p)",
+      "url": "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8",
+      "logo_url": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NekaTV",
+      "name": "Neka TV",
+      "url": "https://stream.apcloud.in/nekatv/nekatvhd/index.m3u8",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DivyaBhajan.in@SD",
+      "name": "Divya Bhajan (1080p)",
+      "url": "https://jmp2.uk/stvp-IN1600002IQ",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/DivyaBhajan.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FGNChannel.in@SD",
+      "name": "FGN Channel (360p)",
+      "url": "https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://yt3.googleusercontent.com/rDtVRwirMau7LnqmpkNHMrsqCQ7TtWTIbXePXFcY_GWDMs4z64A-w2XBG92t-IV4-C8UoEI=s900-c-k-c0x00ffffff-no-rj",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "MHOne.in@SD",
+      "name": "MH One (360p)",
+      "url": "https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
