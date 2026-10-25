@@ -7,12 +7,8 @@ http://103.185.24.134:3001/SONY-BBC/index.m3u8
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="SONY",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" group-title="SONY",Sony Max 1
-http://27.116.22.53:5001/live/3418.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="SONY",Sony Max (576p) [Geo-blocked]
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="SONY",Sony Max HD (1080p)
-http://103.185.24.134:3001/SonyMAX/index.m3u8
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="SONY",Sony Pal (576p)
 http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="SONY",Sony Pix HD (1080p)

@@ -219,8 +219,8 @@ http://103.151.60.162:2122/play/a032/index.m3u8?hls
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="Entertainment",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus (India) HD (1080i)
-http://202.70.146.135:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus (India) HD (1080p)
+http://66.102.126.10:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="StudioYuva.in@SD" tvg-logo="https://i.imgur.com/BOhgz2T.png" group-title="Entertainment",Studio Yuva (576p)
 https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="Entertainment",Subin TV (1080p)
