@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -22181,6 +22181,168 @@
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "logo_url": "https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "GTCPunjabi.in@UK",
+      "name": "GTC Punjabi UK (1080p)",
+      "url": "https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8",
+      "logo_url": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GTCPunjabi.in@US",
+      "name": "GTC Punjabi US (1080p)",
+      "url": "https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8",
+      "logo_url": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ESTV.us@SD",
+      "name": "ESTV (United States) (720p)",
+      "url": "https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/qHNV0f5.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DNN.in@SD",
+      "name": "DNN (576p)",
+      "url": "https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://i.imgur.com/H5Kd0k6.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "IndiaNews.in@SD",
+      "name": "India News (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/s143190_ld_h15_aa.png?lock=720x540",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "IndiaNewsPunjabHimachal.in@SD",
+      "name": "India News Punjab/Himachal (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
+      "logo_url": "https://i.imgur.com/Mu1MPvt.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NaxatraNewsHindi.in@SD",
+      "name": "Naxatra News Hindi (576p)",
+      "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NDTV.in@SD",
+      "name": "NDTV (576p)",
+      "url": "https://cdn.pishow.tv/ott/live/315/master.m3u8",
+      "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NewsHour.in@SD",
+      "name": "News Hour (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b83af98cdfd7d995b46178788a835bff.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PrathamNews.in@SD",
+      "name": "Pratham News (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
+      "logo_url": "https://papaji.freetvindia.com/media/channels/Pratham_news.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TTN24.in@SD",
+      "name": "TTN24 (720p)",
+      "url": "https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/TTN24.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TraLaLaDSN.ro@SD",
+      "name": "TraLaLa DSN",
+      "url": "https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8",
+      "logo_url": "https://tralaladsn.ro/assets/identity/logo.svg",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ShineTV",
+      "name": "Shine TV",
+      "url": "https://shinetv.ipcloud.live/shinetv/shinetv/index.m3u8?origin=github.com/amazeyourself",
+      "logo_url": "",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Astroscience.in@SD",
+      "name": "Astroscience (576p)",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/bvwquh.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Dukhniwaran.in@SD",
+      "name": "Dukhniwaran (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
+      "logo_url": "https://papaji.freetvindia.com/media/channels/dukhniwaran.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "MahotsavTV.in@SD",
+      "name": "Mahotsav TV (576p)",
+      "url": "https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Mahotsav_TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ShaheedanLive.in@SD",
+      "name": "Shaheedan Live (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVSHAHEEDDANLIVE/index.m3u8",
+      "logo_url": "https://papaji.freetvindia.com/media/Shaheedan_Live.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ShaheedanShahib.in@SD",
+      "name": "Shaheedan Shahib (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8",
+      "logo_url": "https://papaji.freetvindia.com/media/channels/Shaheed_Baba_Deep_Singh.png",
       "category": 0,
       "language": 0,
       "is_hd": false
