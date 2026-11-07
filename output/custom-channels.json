@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -22463,6 +22463,204 @@
       "category": 12,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "StarGoldSelect.in@SD",
+      "name": "Star Gold Select (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
+      "logo_url": "https://i.imgur.com/U7eiuqv.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "StarMoviesSelect.in@HD",
+      "name": "Star Movies Select HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
+      "logo_url": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NammaBangalore.in@SD",
+      "name": "Namma Bangalore (1080p)",
+      "url": "https://stream.ottlive.co.in/nammatv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Namma_Bangalore.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SRKTV.in@SD",
+      "name": "SRK TV (1080p)",
+      "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+      "logo_url": "https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Eurosport.in@HD",
+      "name": "Eurosport HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+      "logo_url": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BicolorPlusPremium.pe@SD",
+      "name": "Bicolor+ Premium [Geo-blocked]",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8",
+      "logo_url": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TAPSports.ph@SD",
+      "name": "TAP Sports (1080p) [Geo-blocked]",
+      "url": "https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/4GmuJMD.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Volleyball.ru@SD",
+      "name": "Volleyball (1080p)",
+      "url": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8",
+      "logo_url": "https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "WAPATV42.pr@HD",
+      "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
+      "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
+      "logo_url": "https://i.imgur.com/5WNBFmp.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "JalshaMovies.in@SD",
+      "name": "Jalsha Movies (1080p)",
+      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
+      "logo_url": "https://i.imgur.com/25eWjX2.png",
+      "category": 6,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsOnly.in@SD",
+      "name": "News Only (1080p)",
+      "url": "https://newsonly.kableone.com/newsonly/master.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Only.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "OnkarNews.in@SD",
+      "name": "Onkar News (1080p)",
+      "url": "https://stream.ottlive.co.in/onkarnews/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/onkarnews.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SuryaSamachar.in@SD",
+      "name": "Surya Samachar (576p)",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/vxs1kRB.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "TV7National.in@SD",
+      "name": "TV7 National (1080p)",
+      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
+      "logo_url": "https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/52ac91e7-2c9d-415b-a63f-fb41413105ff.jpg",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Doraemon.us@SD",
+      "name": "Doraemon (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Shinchan.us@SD",
+      "name": "Shin-chan (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8",
+      "logo_url": "https://image.tmdb.org/t/p/original/fIYWvHIeqc1A9D4PyayFkgjRxCh.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BeninTVJunior.bj@SD",
+      "name": "Benin TV Junior (720p)",
+      "url": "https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8",
+      "logo_url": "https://i.imgur.com/bWxjtuJ.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "MeTVToons.us@SD",
+      "name": "MeTV Toons",
+      "url": "https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SuperToons.bg@SD",
+      "name": "Super Toons (1080p)",
+      "url": "https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/SuperToons.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BTLTV.nl@SD",
+      "name": "BTL TV (Netherlands) (1080p)",
+      "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
+      "logo_url": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PitaaraComedy.in@SD",
+      "name": "Pitaara Comedy (1080p)",
+      "url": "https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SadvidyaTV.in@SD",
+      "name": "Sadvidya TV (720p)",
+      "url": "https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
