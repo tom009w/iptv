@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -22704,6 +22704,159 @@
       "url": "https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8",
       "logo_url": "https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png",
       "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SonyMax1.in@SD",
+      "name": "Sony Max 1 (720p)",
+      "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
+      "logo_url": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PunjabPlus.in@SD",
+      "name": "Punjab Plus (1080p)",
+      "url": "https://punjabplustv.akamaized.net/punjabplustv/master.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Punjab_Plus.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SwastikStories.in@SD",
+      "name": "Swastik Stories (1080p)",
+      "url": "https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "BicolorPlusPremium2.pe@SD",
+      "name": "Bicolor+ Premium 2 (720p)",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8",
+      "logo_url": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "FONTV.ru@HD",
+      "name": "FON TV (1080p)",
+      "url": "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/J0YeRB884koVfecR2mp43Y2mbNtRVTSSOiq2U1gkITJ9IxzIM4VA71Rqbh3UlREI4mCnlxGHm4wxoujt5ZH1AQ",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TNTSportsPremium.cl@HD",
+      "name": "TNT Sports Premium HD",
+      "url": "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8",
+      "logo_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "D5ChannelPunjabi.in@SD",
+      "name": "D5 Channel Punjabi (1080p)",
+      "url": "https://d5.tv360.ca:3453/live/cd5live.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/8zcsR5HWFk84RwYkA6r-OXvYzFtVBOmgnicCYMGXPAmMKEozaRQ9Idw4g2dljsIvZ5ES6r8G_lxs19IU9h-ADg",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "GemTV.in@SD",
+      "name": "Gem TV (720p)",
+      "url": "https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8",
+      "logo_url": "https://gemlive.tv/wp-content/uploads/2024/01/final-logo.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "IndiaNewsGujarati.in@SD",
+      "name": "India News Gujarati (576p)",
+      "url": "https://cdn.pishow.tv/ott/live/339/master.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Media9.in@SD",
+      "name": "Media9 (1080p)",
+      "url": "https://media9news.akamaized.net/media9/hls/media9tv.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Media9.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsStateMaharashtraGoa.in@SD",
+      "name": "News State Maharashtra Goa (720p)",
+      "url": "https://prasarbharti-nn.vidgyor.com/nntv/nnbrjh/index.m3u8",
+      "logo_url": "https://i.imgur.com/Wl8WMq1.jpg",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewsTVIndia.in@SD",
+      "name": "News TV India (720p)",
+      "url": "https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/News_TV_India.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "RajPariwar.in@SD",
+      "name": "Raj Pariwar (576p)",
+      "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Pariwar.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SITI24x7.in@SD",
+      "name": "SITI 24x7 (1080p)",
+      "url": "https://www.schannels.in/SITI24X7_1/index.m3u8",
+      "logo_url": "https://yt3.googleusercontent.com/cSsxzVa-2j7DQ7ZLaRSS5oV4RVtkfiwIZoccMKSyitWXf5g1UyYcwavRI2rr-9JaBO52e_6T=s176-c-k-c0x00ffffff-no-rj-mo",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TheUnmute.in@SD",
+      "name": "The Unmute (1080p)",
+      "url": "https://stream.ottlive.co.in/unmute/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/unmute.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CartoonNetwork.us@East",
+      "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ShriShyamTV.in@SD",
+      "name": "Shri Shyam TV (1080p)",
+      "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
+      "logo_url": "https://papaji.freetvindia.com/media/channels/Shri_Shyam.png",
+      "category": 0,
       "language": 0,
       "is_hd": true
     }
