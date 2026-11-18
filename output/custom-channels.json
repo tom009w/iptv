@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -23075,6 +23075,60 @@
       "category": 0,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "5Gold.il@SD",
+      "name": "5Gold",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/zFLRfXh.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "5Live.il@SD",
+      "name": "5Live",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/0yr3yvd.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "5Sport4K.il@SD",
+      "name": "5Sport 4K",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/Msfhpqd.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "5Sport.il@SD",
+      "name": "5Sport",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/dRVsB89.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Eurosport1.fr@UK",
+      "name": "Eurosport 1 UK (720p)",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/olQJgm7.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TomSingsTV.us@HD",
+      "name": "Tom Sings TV (576p)",
+      "url": "https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8",
+      "logo_url": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
