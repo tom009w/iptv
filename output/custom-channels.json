@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -23129,6 +23129,204 @@
       "category": 7,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "BollywoodMasala.in@SD",
+      "name": "Bollywood Masala (1080p)",
+      "url": "https://lamhas.net/bollywoodmasala/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/bollywoodmasala.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "HareKrsnaMusic.in@SD",
+      "name": "Hare Krsna Music (1080p)",
+      "url": "https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Hare_Krsna_music.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PickleballNow.in@SD",
+      "name": "Pickleball Now (720p) [Geo-blocked]",
+      "url": "https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Pickleball_Now.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "5Max.il@SD",
+      "name": "5Max",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8",
+      "logo_url": "https://i.postimg.cc/XNmh01pH/5sport-max-il.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "5Plus.il@SD",
+      "name": "5Plus",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/L3RA9Lv.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "5Stars.il@SD",
+      "name": "5Stars",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/IQtAKIa.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "One2.il@SD",
+      "name": "One 2",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/JQLhYEs.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PrimaSportPPV1.ro@SD",
+      "name": "Prima Sport PPV 1",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm",
+      "logo_url": "https://www.primaplay.ro/uploads/thumb/publisher/b05ce5d64523401d0fc3225c5b629019.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PrimaSportPPV2.ro@SD",
+      "name": "Prima Sport PPV 2",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki2%2Fusergendxpk2s6utg0l-got.htm",
+      "logo_url": "https://www.primaplay.ro/uploads/thumb/publisher/a8c4cd410038eab9d207fd2f15d4d1ce.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "AnjaliTV.in@SD",
+      "name": "Anjali TV (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/VWNeFRQ9uppvZmcO_qVulTHYC8hXd92d3D9Yqbx_UrlTl4trL9AxwmqCrsXmGfN8VS9A_T185BwdVY5O-TTQly4=w1200",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SanjhaTV.in@SD",
+      "name": "Sanjha TV (1080p)",
+      "url": "https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/fb64ab576dd7ed93942eaf11c3282afc.jpg",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ArutzHaYeladim.il@SD",
+      "name": "Arutz HaYeladim",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/n1KusFW.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Junior.il@SD",
+      "name": "Junior",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8",
+      "logo_url": "https://i.imgur.com/w8fYTnw.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "SivanTempleTV.in@SD",
+      "name": "Sivan Temple TV (720p)",
+      "url": "https://yuppnimresmum.akamaized.net/120723/smil:sivantempletv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/ohxtzi.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "AyushNextCommunicationNetwork.in@SD",
+      "name": "Ayush Next Communication Network (576p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8",
+      "logo_url": "https://i.imgur.com/g68oamL.jpeg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "BhaktiPlay.in@SD",
+      "name": "Bhakti Play (1080p)",
+      "url": "https://cc-pisq3rszc5kpz.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pisq3rszc5kpz/OTM/OTM_BhaktiFlix-SCTE_SAMSUNG/playlist.m3u8",
+      "logo_url": "https://bhaktiplay.com/images/icons/logo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "HareKrsnaPravachan.in@SD",
+      "name": "Hare Krsna Pravachan (1080p)",
+      "url": "https://dcn72a38509t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkpravachan/HKTV/HKPravachan/playlist.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Hare_Krsna_Pravachan.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "LakshyaTV.in@SD",
+      "name": "Lakshya TV (720p)",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:lakshyatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Lakshya_TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ParvasiTV.in@HD",
+      "name": "Parvasi TV (720p)",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/ajzsbi.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SikhRatnavali.in@SD",
+      "name": "Sikh Ratnavali (1080p)",
+      "url": "https://livetv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9b43911f42d41a830545872837ac58a2.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TheBonus.in@SD",
+      "name": "The Bonus (1080p)",
+      "url": "https://stream.ottlive.co.in/thebonus/index.m3u8",
+      "logo_url": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/bonus-1792417058870.jpg",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "ViiMEDIA.in@SD",
+      "name": "Vii MEDIA (1080p)",
+      "url": "https://viimedia.akamaized.net/viimedia/master.m3u8",
+      "logo_url": "https://yt3.googleusercontent.com/UYTVPDOHTs9b-v1h2pAUHC_e8I_QRTUITTutft_5hOGC2YLL2-jtgD0xaSWZGOfWjmXKjL3AexE=s1200",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
