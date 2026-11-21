@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -23336,6 +23336,96 @@
       "category": 8,
       "language": 0,
       "is_hd": true
+    },
+    {
+      "id": "Eurosport3Polska.pl@SD",
+      "name": "Eurosport 3 Polska (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Eurosport4Polska.pl@SD",
+      "name": "Eurosport 4 Polska (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PrimaSport2.ro@HD",
+      "name": "Prima Sport 2 HD",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm",
+      "logo_url": "https://i.imgur.com/hROcepe.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SkySportF1.it@SD",
+      "name": "Sky Sport F1 (Italy)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "C10.in@SD",
+      "name": "C-10 (576p)",
+      "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://papaji.freetvindia.com/media/channels/C-10.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CanalJ.fr@SD",
+      "name": "Canal J (1080p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CartoonNetworkWesternEurope.uk@Portugal",
+      "name": "Cartoon Network Western Europe Portugal (576p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DisneyChannel.fr@SD",
+      "name": "Disney Channel (France)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Nickelodeon.pt@SD",
+      "name": "Nickelodeon (Portugal)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ApnaPunjabTV.in@SD",
+      "name": "Apna Punjab TV (India) (576p)",
+      "url": "https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8",
+      "logo_url": "https://www.apnapunjab.tv/images/logo.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
     }
   ]
 }
