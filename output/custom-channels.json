@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -23451,6 +23451,42 @@
       "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm",
       "logo_url": "https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg",
       "category": 8,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CartoonCartoons.us@SD",
+      "name": "Cartoon Cartoons (720p)",
+      "url": "https://cartooncartoons.thatsoretro.com/hls/stream.m3u8",
+      "logo_url": "https://cartooncartoons.thatsoretro.com/logo",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Nickelodeon.nl@HD",
+      "name": "Nickelodeon (Netherlands) HD (1080i)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071",
+      "logo_url": "https://i.imgur.com/E84jnP8.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Nickelodeon.pl@SD",
+      "name": "Nickelodeon (Poland)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b",
+      "logo_url": "https://i.imgur.com/E84jnP8.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NijamTV.in@SD",
+      "name": "Nijam TV (1080p)",
+      "url": "https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/nijamtv.png",
+      "category": 0,
       "language": 0,
       "is_hd": true
     }
