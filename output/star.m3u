@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="StarBharat.in@HD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="STAR",Star Bharat (India) HD (1080p)
-http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="STAR",Star Jalsha (1080p) [Geo-blocked]
-http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805
-#EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="STAR",Star Jalsha HD (1080p)
-http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="STAR",Star Jalsha HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png" group-title="STAR",Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="STAR",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="STAR",Star Movies (India) HD (1080p)
-http://116.90.120.149:8000/play/a13a/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://i.imgur.com/ZT0u7AK.png" group-title="STAR",Star Pravah HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="StarUtsav.in@SD" tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="STAR",Star Utsav (576p)
@@ -18,6 +12,4 @@ http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 #EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="STAR",Star Utsav Movies (576p)
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 #EXTINF:-1 tvg-id="Starnet.in@SD" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="STAR",Starnet (480p)
-https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="STAR",StarPlus (India) HD (1080p)
-http://66.102.126.10:8000/play/a008/index.m3u8
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
