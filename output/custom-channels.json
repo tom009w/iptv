@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -23559,6 +23559,177 @@
       "url": "https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8",
       "logo_url": "https://i.imgur.com/rS9i9RL.png",
       "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CCTVKunnamkulam.in@SD",
+      "name": "CCTV Kunnamkulam (720p)",
+      "url": "https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8",
+      "logo_url": "https://i.ibb.co/ndPywxZ/cctv-logo.jpg",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CityChannelHD.in@SD",
+      "name": "City Channel HD (1080p)",
+      "url": "https://live.skystream.in/live/citytv2924/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "CityVisionKannur.in@SD",
+      "name": "City Vision Kannur (576p)",
+      "url": "https://live.skystream.in/live/citykannurcity/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/eO1Si1pAb0f-4E5ZTHqOCvIrcVEtNBOgex-Y6lRQTYaV04mbjQpm4oJKmv42CIM5L12bdbmH6Voh7dXZk6ZW=w240-h480",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DrishyaTV.in@SD",
+      "name": "Drishya TV (576p)",
+      "url": "https://live.skystream.in/live/drishya5060/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DrisyaTV.in@SD",
+      "name": "Drisya TV (576p)",
+      "url": "https://live.skystream.in/live/drishyakarunagapally/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/8O2ugQ2n4Y3Mt8j4sfTd52RizgIJwbu7U1mtF3Fk1hDbXc3yIGgvFqriLoO2InOX0ajgwaITdnGJV_w6HRac0Q",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KasargodVision.in@SD",
+      "name": "Kasargod Vision (576p)",
+      "url": "https://live.skystream.in/live/kasaragodvsn/index.m3u8",
+      "logo_url": "https://coakerala.com/wp-content/uploads/2014/11/KSD-VISION-district-channel.jpg",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KCNKasargod.in@SD",
+      "name": "KCN Kasargod (576p)",
+      "url": "https://live.skystream.in/live/kcnksrgod/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/sfxGAj8et5iKbygQ7Plp6gSvsvLodM4b7HU0K_1dx_etJMo3FUEIkf0z7KdWTEb-Gwhx5Vz9bQjpB8g_oz6jry0=w240-h480",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "KeralaTodayTV.in@SD",
+      "name": "Kerala Today TV (1080p)",
+      "url": "https://live.skystream.in/live/krlatoday/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/JpdLqTP2IiQDuLkr_jw0QeeDHfHOPd-vk00pnPF06f95Jca01t7v2BbrSENDeNuHktB2t0EbSfk_XyXvvUAumQ",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewVisionHD.in@SD",
+      "name": "New Vision HD (576p)",
+      "url": "https://live.skystream.in/live/newvision2924/index.m3u8",
+      "logo_url": "https://i.ibb.co/Sw4cdy9b/new-vision-hd.jpg",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NMMediaChannelHD.in@SD",
+      "name": "NM Media Channel HD (1080p)",
+      "url": "https://live.skystream.in/live/newmedia2924/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/bS6HNpsLqv-Irw64TaPYqk3o8AlMiA96GJjD8qUfIzgtoeC23CCLrGW5iReGh1jMlP7djBZhxsJ_2wFLWpHB",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PeriyarVision.in@SD",
+      "name": "Periyar Vision (1080p)",
+      "url": "https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/Oh0y8uEVV7LIlMBig3mi5xthzsUeOMWXxkHh6CpNf8uousEVwTCCEgLnNIYPPOd5aWw5f7lAWOqPqP93y2H7",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SouthVision.in@SD",
+      "name": "South Vision (1080p)",
+      "url": "https://live.skystream.in/live/southvsnklm/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/R8Z8juih4xjZthHZeKnFqJTLFmf-GZfRLvcVHdeX7VNw568mvI6mES5LVbvTlPOSO8qoAjDE01fGy93XKkliyg=w512-h512",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Thanima.in@SD",
+      "name": "Thanima (1080p)",
+      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/cEXeXLHYTRthQoC8y_7SIr5hWU1gVpuRUc139KMbm-HqdllHs1IYig3voRgXrxG5XmELu95FBhLMEqyjNljHgog",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "UTVHD24x7.in@SD",
+      "name": "UTV HD 24x7 (1080i)",
+      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
+      "logo_url": "https://i.ibb.co/BVR60w26/utv-hd-24x7.jpg",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "WayanadVisionMovies.in@SD",
+      "name": "Wayanad Vision Movies (720p)",
+      "url": "https://online.wayanadvision.in/hls/wvmovies.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/UxJ6sG6LdpaAXZOvR8EJyYa9PVx3gZWzetMe6MKHeguGSyyDHBDzKX5gN6Z75cQCni609w3YyuLSlE5qWPhG-Q",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "WayanadVisionPlus.in@SD",
+      "name": "Wayanad Vision Plus (720p)",
+      "url": "https://online.wayanadvision.in/hls/streaming1.m3u8",
+      "logo_url": "https://i.ibb.co/zTZk83Z3/wayand-vision-plus.jpg",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DigiSport2.ro@SD",
+      "name": "Digi Sport 2 (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm",
+      "logo_url": "https://i.imgur.com/KWDUi3v.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DigiSport3.ro@SD",
+      "name": "Digi Sport 3 (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm",
+      "logo_url": "https://i.imgur.com/T1ci5UK.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DigiSport4.ro@SD",
+      "name": "Digi Sport 4 (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm",
+      "logo_url": "https://i.imgur.com/Knj9I6f.png",
+      "category": 8,
       "language": 0,
       "is_hd": false
     }
