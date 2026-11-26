@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -23732,6 +23732,123 @@
       "category": 8,
       "language": 0,
       "is_hd": false
+    },
+    {
+      "id": "CCNET.in@SD",
+      "name": "CC NET (1080p)",
+      "url": "https://live.skystream.in/live/ccnet7082/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DrisyaNewsPala.in@SD",
+      "name": "Drisya News Pala (576p)",
+      "url": "https://live.skystream.in/live/DrisyaPala2924/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "K7KeralamChannel.in@SD",
+      "name": "K7 Keralam Channel (1080p)",
+      "url": "https://live.skystream.in/live/keralam2742/index.m3u8",
+      "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "DigiSport1.ro@SD",
+      "name": "Digi Sport 1 (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk1%2Fusergendx419snx12kdgwqrnd.m3u8",
+      "logo_url": "https://i.imgur.com/5zMxDYq.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "ABCNews.in@SD",
+      "name": "ABC News (India) (1080p)",
+      "url": "https://stream.ottlive.co.in/abcnews/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "IN24News.in@SD",
+      "name": "IN 24 News (1080p)",
+      "url": "https://stream.ottlive.co.in/in24news/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "LokmatBharat.in@SD",
+      "name": "Lokmat Bharat (1080p)",
+      "url": "https://stream.ottlive.co.in/lokmatbharat/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NEBharat24.in@SD",
+      "name": "NE Bharat24 (1080p)",
+      "url": "https://stream.ottlive.co.in/nebharat24/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "News21.in@SD",
+      "name": "News 21 (1080p)",
+      "url": "https://stream.ottlive.co.in/news21/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "Pulse24.in@SD",
+      "name": "Pulse 24 (1080p)",
+      "url": "https://stream.ottlive.co.in/pulse24news/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Pulse_24.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TaraTV.in@SD",
+      "name": "Tara TV (720p)",
+      "url": "https://stream.ottlive.co.in/taratv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "VandeBharatNews.in@SD",
+      "name": "Vande Bharat News (1080p)",
+      "url": "https://stream.ottlive.co.in/vandebharatnews/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Bharat.png",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "SristiTV.in@SD",
+      "name": "Sristi TV (1080p)",
+      "url": "https://stream.ottlive.co.in/sristitv/index.m3u8",
+      "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": true
     }
   ]
 }
