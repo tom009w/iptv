@@ -13161,7 +13161,7 @@
     {
       "id": "direct:aHR0cHM6Ly92cy1jbWFmLXB1c2hiLXVrLWxpdmUuYWthbWFpemVkLm5ldC94PTQvaT11cm46YmJjOnBp",
       "name": "cbbc hd 1080p geoblocked",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "logo_url": "https://ui-avatars.com/api/?name=CH1&background=98D8C8&color=fff&size=100&bold=true",
       "category": 0,
       "language": 0,
@@ -23847,6 +23847,123 @@
       "url": "https://stream.ottlive.co.in/sristitv/index.m3u8",
       "logo_url": "https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png",
       "category": 0,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NewStar.in@SD",
+      "name": "NewStar (576p)",
+      "url": "https://live.skystream.in/live/newsstar2924/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/JLiLXoTU8b57K5qjOdLZ_vlsZ45DpKdVOsobf9WIOYuX9MzEztvmdnTDJOSjnasmOlC4ZblYfgBb7nYYz2fBZw=w240-h480-rw",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "MediaTodayNewsHD.in@SD",
+      "name": "Media Today News HD (1080p)",
+      "url": "https://live.skystream.in/live/mediatday/index.m3u8",
+      "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8NN2CHm8hxb4cvs3MVWnHwk7bPKROjAgKhSBAH1b2CZo9Aw-eyXS_KgY&s=10",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "NetworkPayyanur.in@SD",
+      "name": "Network Payyanur (576p)",
+      "url": "https://live.skystream.in/live/networkpayyanur/index.m3u8",
+      "logo_url": "https://play-lh.googleusercontent.com/xIfTwT6zDR2ZIXzHQww22f4pf6uahuDe_f0qexCJfKgvf4QD34g-RPAEPj5BVW6HjCldWcO9d8af93mDZAX0",
+      "category": 5,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "PowranMedia.in@SD",
+      "name": "Powran Media (720p) [Not 24/7]",
+      "url": "https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8",
+      "logo_url": "https://i.ibb.co/XrBb1DNZ/1000153157.png",
+      "category": 5,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "PrimaPPV3.ro@SD",
+      "name": "Prima PPV 3 (576p)",
+      "url": "https://rundle.tv/proxy5.php?src=https://pulse1.sanseny001.shop/puki2/usergendxpk2s6utg0l.m3u8",
+      "logo_url": "https://www.primaplay.ro/uploads/thumb/publisher/99e3b9471f4939aaa6acc29c2df971dc.png",
+      "category": 8,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "NewsAdda.in@SD",
+      "name": "News Adda (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/NewsAdda/index.m3u8",
+      "logo_url": "https://yt3.googleusercontent.com/P0cbg1fLI_EaEjNvXmZFVY12temn0DLW9Ii-8WUHuYlqFVpzGJBI_ITGHdHRmdmpeJSIpjrmPKw=s900-c-k-c0x00ffffff-no-rj",
+      "category": 12,
+      "language": 0,
+      "is_hd": true
+    },
+    {
+      "id": "TVNNews.in@SD",
+      "name": "TVN News (576p)",
+      "url": "https://cdn.pishow.tv/ott/live/10010/master.m3u8",
+      "logo_url": "https://www.vivalivetv.com/public/files/shows/0/1/4037-800x450-FFFFFF.jpg",
+      "category": 12,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CartoonNetworkCEE.uk@Romania",
+      "name": "Cartoon Network CEE Romania (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "CartoonitoCEE.uk@Romania",
+      "name": "Cartoonito CEE Romania (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8",
+      "logo_url": "https://i.imgur.com/9MrzLb1.png",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DisneyJunior.ro@SD",
+      "name": "Disney Junior (Romania) (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/disjr/usergendxvoq4rnd.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "DuckTV.ro@SD",
+      "name": "Duck TV (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8",
+      "logo_url": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607",
+      "category": 7,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "Minimax.ro@SD",
+      "name": "Minimax (Romania) (576i)",
+      "url": "https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/minimaxy/usergendxny9zrnd.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg",
+      "category": 0,
+      "language": 0,
+      "is_hd": false
+    },
+    {
+      "id": "YuppTVVeda.in@SD",
+      "name": "YuppTV Veda (720p)",
+      "url": "https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "logo_url": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/cbjodg.png",
+      "category": 12,
       "language": 0,
       "is_hd": true
     }
